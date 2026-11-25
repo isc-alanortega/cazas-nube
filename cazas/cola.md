@@ -107,6 +107,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-25 mañana | BR | A huella (mié = B perforar, pero la cola no tiene nodos BR → cola vacía para BR) | — | en curso | en curso | — |
 | 2026-11-25 mañana | EN | C operadores (tabla y agenda vacías → re-medición de señales 11-24 + huellas nuevas) | — | page_ids Excelbychris, Bev Jessup, Alisson Drusk, Portal da Pedagogia + `digital download pdf` GB | 1 tarjeta: Excelbychris US (32/50 cohorte 7+); resto señales | nodos nuevos `virgen`: crochet-patrones-pdf, adhd-planners; plantillas-excel con candidato |
 | 2026-11-25 mañana | EU | A huella (cola vacía) | — | 10 huellas × DE/FR/IT/PT (PDF Anleitung, Download sofort, E-Book, Vorlage Download, Planer PDF, Checkliste PDF, Mini-Kurs, guide PDF, passo dopo passo PDF, download imediato, precios 9,99/19,90…) + 4 barridos por país + 60 conteos por page_id | 2 tarjetas: Rachel Bennett (Kita 5 €) y red de fichas visuales PDF (Studio Facile PT, Bianca FR/IT); señal fuerte Emito DE | nodos nuevos `virgen`/`superficial` abajo |
 | 2026-11-24 tarde | EN | A huella (cola vacía) | — | 11 huellas × US+GB (printable planner, instant/digital download, gumroad, payhip, cheat sheet, study guide, spreadsheet template, digital guide pdf, $9.99, $17, blueprint protocol) | 0 tarjetas; todo churn de <48 h salvo Bev Jessup (workshop gratis) | nodos nuevos `virgen`: plantillas-excel, planner-cristiano, guias-oficios-bonus |
