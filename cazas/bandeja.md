@@ -26,6 +26,21 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Guía/tarjetas de reproducción equina para veterinarios — Equine reproduction US+GB · `veterinaria/equinos` · 2026-11-24 · sesión EN
+- **Qué es:** guía práctica en tarjetas («34 cards with real scans», casos de ecografía) para veterinarios de equinos; precio en copy $23 (lista $85, «73% off»). Formato digital probable, no confirmado.
+- **Por qué es ganador:** cohorte 7+/activos US 28/44 · GB 28/36 · escalonada 7-25 días · un solo page_id · página sin nombre de persona · mismo ángulo «A practical guide for veterinarians» duplicado ×7.
+- **Qué hacer:** modelar tal cual (casos + «respuesta en tarjeta X») en otro idioma; destino sugerido DE/FR/IT (verificar hueco con `ALL`); ángulo: decisión clínica rápida (¿inducir? ¿prostaglandina hoy?).
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1393630140502286&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1393630140502286&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (formato PDF vs físico, marca personal en creativos, precio real).
+- Score 0-1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, snapshot no verificado desde la nube).
+
+**Señales del día EN** (2026-11-24)
+- Impulso Digital (patrones manualidades, $16.90): 8/24 en cohorte, a 2 de la vara; re-medir.
+- Studio Facile (guías ilustradas de examen, 359 ads est.): cohorte 0/≥50, fábrica de churn.
+- Linework Books (libros ilustrados + 2 bonos): cohorte 0/≥50, churn.
+- Bev Jessup GB ($11 devocional): ~28 ads creados el mismo minuto, cohorte 0.
+
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->

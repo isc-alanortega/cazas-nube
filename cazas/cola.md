@@ -36,6 +36,9 @@ los nichos que emergen.
 | Nodo | Padre | Mercados | Estado | Cobertura | Próxima acción |
 |---|---|---|---|---|---|
 | (vacío: las sesiones arrancan en modo A) | | | | | |
+| veterinaria/equinos | veterinaria | EN | superficial | 2026-11-24: huella + conteo US/GB | Perforar subnichos (reproducción, cojeras, dental); medir DE/FR/IT |
+| estudio-examen-ilustrado | educación | EN | virgen | apareció por huella 2026-11-24 (Studio Facile, Visual Guide Lab, Learned Visually, Study Pages Co.) | Perforar por examen; contar cada page_id |
+| manualidades/patrones | hobbies | EN | virgen | apareció por huella 2026-11-24 (Impulso Digital 8/24) | Re-medir Impulso Digital; perforar |
 
 ---
 
@@ -54,6 +57,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | frases largas en `search_terms` | el matcher es **AND por token** | pares de palabras |
 | huellas anchas en 🇧🇷 (`acesso imediato`, `apostila`, `kiwify`, precios) | decenas de miles de ads, los 50 primeros son de hoy: sirven para leer nombres de página, no para medir | barrer → anotar ~30 páginas → contar cada una con `page_ids` + `countries`; rinden `guia prático pdf`, `planilha pronta`, `ebook completo`, `material digital` |
 | bloque `es` sin BO / EC / GT | subcuenta a los operadores andinos | `countries: ["MX","CO","AR","PE","CL","BO","EC","GT","ES"]` |
+| `cheat sheet` (EN) | short-dramas («Made Four Street Boys My Daddies») | entregable + tema |
 | `ad_creation_time` viejo sin impresiones | ads zombis | abrir el snapshot: «isn't in the Ad Library / no impressions» no cuenta |
 | follow ads («Visit Instagram profile») | infl an la longevidad | la longevidad se lee **sobre el ad que vende** |
 | `limit: 50` que devuelve 50 ads de hoy | cohorte truncada | reportar como piso, repetir con `page_ids` + `countries` |
@@ -90,5 +94,5 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-24 (tarde) | EN | A huella (cola vacía) | — | en curso | en curso | — |
+| 2026-11-24 (tarde) | EN | A huella (cola vacía) | — | 7 huellas US+GB (instant download, printable planner, gumroad, digital download, cheat sheet, payhip, study guide pdf) + 7 conteos por page_id | 1 tarjeta (Equine reproduction 28/44 US) + 4 señales | nodos nuevos virgen |
 | | | | | | | |
