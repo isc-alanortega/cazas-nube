@@ -51,6 +51,8 @@ los nichos que emergen.
 | planillas-listas-br | — | BR (fuente→EU/EN) | virgen | 2026-11-25 BR: Escala Nova «escala 5x2 R$17,90» 13 ads/cohorte 2; Tera Studio (R$27 planillas, mezcla con servicio web) 12 ads de 1 d; Patrick James 3 ads | re-medir Escala Nova ~2026-12-02 |
 | mapas-visuales-concursos-br | — | BR | virgen | 2026-11-25 BR: Escrevente em Mapas, João Silva (+100 mapas guarda municipal), Edital Organizado 9 ads/cohorte 2 (kits R$27-49) | contar con page_ids a los 7 días; apareció por huella el 2026-11-25 |
 | mapas-ingles-br | — | BR (fuente→EU) | virgen | 2026-11-25 BR: Mapinhas de Inglês 15 ads, todos <1 d (+500 mapinhas) | re-medir ~2026-12-02 |
+| enfermeria-farmacologia-pdf | — | ES (fuente→EU) | superficial | 2026-11-25 ES: Medical System Global AR 12/39 (atlas farmacología, ECG); Doctor PDF MX 7 | medir en IT/PT/FR/DE con page_ids; perforar subnichos (ECG, fichas guardias, mapas); apareció por huella el 2026-11-25 |
+| mapas-fiscales-mx | — | ES | virgen | 2026-11-25 ES: red «100 páginas del DOF… o un mapa» (Mapa Fiscal, Reforma tributaria, Academia Contable), <1 d | re-medir ~2026-12-02; apareció por huella el 2026-11-25 |
 
 ---
 
@@ -69,6 +71,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | frases largas en `search_terms` | el matcher es **AND por token** | pares de palabras |
 | huellas anchas en 🇧🇷 (`acesso imediato`, `apostila`, `kiwify`, precios) | decenas de miles de ads, los 50 primeros son de hoy: sirven para leer nombres de página, no para medir | barrer → anotar ~30 páginas → contar cada una con `page_ids` + `countries`; rinden `guia prático pdf`, `planilha pronta`, `ebook completo`, `material digital` |
 | bloque `es` sin BO / EC / GT | subcuenta a los operadores andinos | `countries: ["MX","CO","AR","PE","CL","BO","EC","GT","ES"]` |
+| `Chatea con nosotros`, `OFERTA SOLO HOY` (ES, nov-2026) | títulos de CTA sin oferta (Aprendo Fácil, Estudiando+) | leer el nombre de página y abrir snapshot; sí rinde `apuntes enfermería` |
 | `ad_creation_time` viejo sin impresiones | ads zombis | abrir el snapshot: «isn't in the Ad Library / no impressions» no cuenta |
 | follow ads («Visit Instagram profile») | infl an la longevidad | la longevidad se lee **sobre el ad que vende** |
 | `limit: 50` que devuelve 50 ads de hoy | cohorte truncada | reportar como piso, repetir con `page_ids` + `countries` |
@@ -112,7 +115,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-25 mañana | ES | C operadores (tabla y agenda vacías → huellas ES + conteo por page_id) | — | en curso | — | — |
+| 2026-11-25 mañana | ES | C operadores (tabla y agenda vacías → huellas ES + conteo por page_id) | — | 4 huellas (plantillas excel, acceso inmediato PDF, apuntes enfermería, mapas mentales) + 17 page_ids | 1 tarjeta: Medical System Global AR cohorte 12/39 (atlas farmacología enfermería); resto señales | nodo nuevo superficial |
 | 2026-11-25 mañana | BR | A huella (mié = B perforar, pero la cola no tenía nodos BR → cola vacía para BR) | — | 6 huellas BR (guia prático pdf, planilha pronta, mapas mentais, ebook completo, material digital, acesso vitalício) + 11 page_ids | 0 tarjetas: ninguna página llega a cohorte 10 (todo <2 d; mejores: Escala Nova 13 ads/2 cohorte, Edital Organizado 9/2) | 4 nodos nuevos `virgen` |
 | 2026-11-25 mañana | EN | C operadores (tabla y agenda vacías → re-medición de señales 11-24 + huellas nuevas) | — | page_ids Excelbychris, Bev Jessup, Alisson Drusk, Portal da Pedagogia + `digital download pdf` GB | 1 tarjeta: Excelbychris US (32/50 cohorte 7+); resto señales | nodos nuevos `virgen`: crochet-patrones-pdf, adhd-planners; plantillas-excel con candidato |
 | 2026-11-25 mañana | EU | A huella (cola vacía) | — | 10 huellas × DE/FR/IT/PT (PDF Anleitung, Download sofort, E-Book, Vorlage Download, Planer PDF, Checkliste PDF, Mini-Kurs, guide PDF, passo dopo passo PDF, download imediato, precios 9,99/19,90…) + 4 barridos por país + 60 conteos por page_id | 2 tarjetas: Rachel Bennett (Kita 5 €) y red de fichas visuales PDF (Studio Facile PT, Bianca FR/IT); señal fuerte Emito DE | nodos nuevos `virgen`/`superficial` abajo |

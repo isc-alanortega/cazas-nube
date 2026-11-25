@@ -81,6 +81,21 @@ BR 2026-11-25: nada que pase la vara; se barrió guia prático pdf, planilha pro
 - Mapinhas de Inglês (1482528891605436): «+500 Mapinhas» 15 ads, todos <1 d; Edital Organizado (481942552171664): kits de concurso R$ 27-49, 9 ads, cohorte 2.
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 Atlas/Vademécum de farmacología y ECG de enfermería en PDF — Medical System Global (antes «Aula de Enfermería») AR · `enfermeria-farmacologia-pdf` · 2026-11-25 · sesión ES
+- **Qué es:** PDF/atlas para estudiantes de enfermería: vademécum +1.600 fármacos, 500 páginas con esquemas, 53 capítulos de farmacología, 190 ECG reales, mapas del sistema nervioso. Precio no visible por API.
+- **Por qué es ganador:** AR cohorte 7+ de 12/39 activos (conteo completo, un solo page_id; 3 de los 12 con 7,08 d, sin ellos 9) · ≥10 fechas de creación distintas, ads de hoy · ad más viejo 64 d con el mismo ángulo «cada fármaco, con cada efecto» · no es marca personal · MX 19 activos sin cohorte, ES 0.
+- **Qué hacer:** modelar el atlas «un fármaco por página, mismo orden» + banco de ECG como bonus · fuente AR → destino IT, PT, FR, DE (medir antes con page_ids; `farmacologia` IT/PT infla la búsqueda) · ángulo «entenderlo, no memorizarlo» · verificar que no sea contenido regulado por país.
+- **Ads Library:** AR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1299254193268099 · MX https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1299254193268099
+- **Landing:** no visible desde la nube: verificar en la PC (precio, checkout vs WhatsApp). Snapshots: https://www.facebook.com/ads/library/?id=1856894558846600 · https://www.facebook.com/ads/library/?id=1613025823430304
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API, snapshot no verificado.
+
+**Señales del día ES (2026-11-25):**
+- Doctor PDF (114914206902993) MX: fichas visuales de enfermería/guardias en MXN, 16 activos, cohorte 7; re-medir ~2026-12-02.
+- Estudiando+ (244436822091978) PE: «OFERTA SOLO HOY / SOLO 10 SOLES», cohorte 12 en muestra de 50 (piso), oferta no identificable por API; abrir snapshot en la PC.
+- Red «Más de 100 páginas del DOF… o un mapa» (Mapa Fiscal 1387458961125724, Reforma tributaria 1394329377105320, Academia Contable 1118542624667712) MX: mapas de la reforma fiscal 2027, todos <1 d; re-medir en 7 d.
+- Fer Rendon (1977647735819349) MX: plantillas Excel costeo de menú/finanzas de constructoras, 116 activos, cohorte 0 (ads de ~4 d); posible marca personal.
+- Educa Virtual (952043601324431): fábrica multi-SKU (mapas fisioterapia, corte láser, armonización facial), 27 ads, cohorte 2; Valentina Ríos 26 ads cohorte 3 (+3000 descargas).
 
 ---
 
