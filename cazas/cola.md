@@ -90,4 +90,5 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-24 tarde | EN | A huella (cola vacía) | — | en curso | en curso | — |
 | | | | | | | |
