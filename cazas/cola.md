@@ -95,5 +95,6 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-25 mañana | EU | A huella (cola vacía) | — | en curso | en curso | — |
 | 2026-11-24 tarde | EN | A huella (cola vacía) | — | 11 huellas × US+GB (printable planner, instant/digital download, gumroad, payhip, cheat sheet, study guide, spreadsheet template, digital guide pdf, $9.99, $17, blueprint protocol) | 0 tarjetas; todo churn de <48 h salvo Bev Jessup (workshop gratis) | nodos nuevos `virgen`: plantillas-excel, planner-cristiano, guias-oficios-bonus |
 | | | | | | | |
