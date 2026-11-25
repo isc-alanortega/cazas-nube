@@ -40,6 +40,13 @@ los nichos que emergen.
 | recetarios | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
 | actividades-para-adultos-mayores | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
 | relaciones | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
+| kita-actividades | — | EU (+IT/PT/ES) | superficial | 2026-11-25 EU: Rachel Bennett DE cohorte 14 | perforar subnichos (Kita DE, Vorschule, Krippe) y re-medir en 7 días; apareció por huella el 2026-11-25 |
+| fichas-visuales-pdf | — | EU (+EN/ES) | superficial | 2026-11-25 EU: Studio Facile PT 16, Bianca FR 15/IT 13 | red de 10+ páginas; medir cohorte vieja de Studio Facile IT (497 ads) y Crearis; perforar por oficio; apareció por huella el 2026-11-25 |
+| material-docentes-pdf | — | EU | virgen | 2026-11-25 EU: Emito DE 41/62, Sara Brooks/Trade Pro Kit/Orbis Atlas PT | perforar (Mathe, Unterrichtsmaterial, programações anuais); apareció por huella el 2026-11-25 |
+| mapas-mentales-idiomas | — | EU | virgen | 2026-11-25 EU: Lingua Chiara 32/103 (copy IT en DE) | medir en IT con page_ids; apareció por huella el 2026-11-25 |
+| plantillas-negocio-word-excel | — | EU/EN | virgen | Dragon Fire Method cohorte 23+ (copy EN) | verificar si el producto es real o marca genérica |
+| patrones-crochet-pdf | — | EU | virgen | Stitchy 17/31, Crochet school 10/20 DE | abrir snapshot: ¿PDF o kit? |
+| haccp-restauracion | — | EU (PT) | virgen | Clear Guides, Makers Bench PT (cohorte 0, lanzamientos) | re-medir en 7 días |
 
 ---
 
@@ -67,6 +74,10 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `printable planner`, `spreadsheet template`, `digital guide pdf` (EN, nov-2026) | solo devuelven ads de las últimas 24-48 h (Black Friday); Linework Books clona 50+ ads/país en un día | re-medir con `page_ids`+`countries` a los 7 días |
 | `digital download pdf` GB (nov-2026) | solo churn <48 h: patrones de crochet PDF y planners ADHD | page_ids + `countries` a los 7 días |
 | un whale migra de página sin apagar el negocio | contar solo la página madre lo da por muerto | contar también las páginas hermanas de su ficha |
+| precios (`nur 9,99`, `seulement 19,90`, `a soli 9,99`, `apenas 19,90`) y `E-Book` en DE/FR/IT/PT | 100 % retail, Black Friday, novelas | no usar; sí `Planer PDF`, `guide PDF`, `passo dopo passo PDF`, `checklist PDF`, `download imediato` |
+| `passo a passo PDF` (PT) y `mini curso` | matchean `passo a passo` suelto: clínicas, stands, dramas, coaches | `download imediato`, `planeador PDF` |
+| `digistore24` (DE) | coaches, lead magnets, agencias | no usar |
+| copy en otro idioma dentro de un país (Lingua Chiara IT en DE, Dragon Fire EN) | infla el país | leer el idioma de cada título y contar en el país del copy |
 
 ## Operadores a seguir (modo C)
 
@@ -97,6 +108,6 @@ la completa al terminar.
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
 | 2026-11-25 mañana | EN | C operadores (tabla y agenda vacías → re-medición de señales 11-24 + huellas nuevas) | — | page_ids Excelbychris, Bev Jessup, Alisson Drusk, Portal da Pedagogia + `digital download pdf` GB | 1 tarjeta: Excelbychris US (32/50 cohorte 7+); resto señales | nodos nuevos `virgen`: crochet-patrones-pdf, adhd-planners; plantillas-excel con candidato |
-| 2026-11-25 mañana | EU | A huella (cola vacía) | — | en curso | en curso | — |
+| 2026-11-25 mañana | EU | A huella (cola vacía) | — | 10 huellas × DE/FR/IT/PT (PDF Anleitung, Download sofort, E-Book, Vorlage Download, Planer PDF, Checkliste PDF, Mini-Kurs, guide PDF, passo dopo passo PDF, download imediato, precios 9,99/19,90…) + 4 barridos por país + 60 conteos por page_id | 2 tarjetas: Rachel Bennett (Kita 5 €) y red de fichas visuales PDF (Studio Facile PT, Bianca FR/IT); señal fuerte Emito DE | nodos nuevos `virgen`/`superficial` abajo |
 | 2026-11-24 tarde | EN | A huella (cola vacía) | — | 11 huellas × US+GB (printable planner, instant/digital download, gumroad, payhip, cheat sheet, study guide, spreadsheet template, digital guide pdf, $9.99, $17, blueprint protocol) | 0 tarjetas; todo churn de <48 h salvo Bev Jessup (workshop gratis) | nodos nuevos `virgen`: plantillas-excel, planner-cristiano, guias-oficios-bonus |
 | | | | | | | |
