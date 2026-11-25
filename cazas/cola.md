@@ -65,6 +65,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | landing de operador 🇧🇷 | geo-redirige por idioma | el precio del mercado cazado se mira desde el checkout |
 | página que devuelve **0 con `ALL`** | no está pausada: ya no existe | anotarla como desaparecida |
 | `printable planner`, `spreadsheet template`, `digital guide pdf` (EN, nov-2026) | solo devuelven ads de las últimas 24-48 h (Black Friday); Linework Books clona 50+ ads/país en un día | re-medir con `page_ids`+`countries` a los 7 días |
+| `digital download pdf` GB (nov-2026) | solo churn <48 h: patrones de crochet PDF y planners ADHD | page_ids + `countries` a los 7 días |
 | un whale migra de página sin apagar el negocio | contar solo la página madre lo da por muerto | contar también las páginas hermanas de su ficha |
 
 ## Operadores a seguir (modo C)
@@ -95,7 +96,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-25 mañana | EN | C operadores (tabla y agenda vacías → re-medición de señales 11-24 + huellas nuevas) | — | en curso | en curso | — |
+| 2026-11-25 mañana | EN | C operadores (tabla y agenda vacías → re-medición de señales 11-24 + huellas nuevas) | — | page_ids Excelbychris, Bev Jessup, Alisson Drusk, Portal da Pedagogia + `digital download pdf` GB | 1 tarjeta: Excelbychris US (32/50 cohorte 7+); resto señales | nodos nuevos `virgen`: crochet-patrones-pdf, adhd-planners; plantillas-excel con candidato |
 | 2026-11-25 mañana | EU | A huella (cola vacía) | — | en curso | en curso | — |
 | 2026-11-24 tarde | EN | A huella (cola vacía) | — | 11 huellas × US+GB (printable planner, instant/digital download, gumroad, payhip, cheat sheet, study guide, spreadsheet template, digital guide pdf, $9.99, $17, blueprint protocol) | 0 tarjetas; todo churn de <48 h salvo Bev Jessup (workshop gratis) | nodos nuevos `virgen`: plantillas-excel, planner-cristiano, guias-oficios-bonus |
 | | | | | | | |

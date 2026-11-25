@@ -25,6 +25,20 @@ histórico.
 ## Pendientes de revisión
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 300 Excel Templates (95% OFF) — Excelbychris US · `plantillas-excel` · 2026-11-25 · sesión EN
+- **Qué es:** pack de 300 plantillas de Excel con 95 % de descuento (infoproducto digital); precio no visible.
+- **Por qué es ganador:** cohorte 7+ US 32/50 activos (piso, limit 50) de un solo page_id · 3 tandas de creación (~9.8 d, ~2.8 d, <1 d) · un solo creativo escalado · GB 0.
+- **Qué hacer:** modelar el pack de plantillas (finanzas/presupuesto/inventario) con oferta de descuento fuerte · destino US (y probar GB, vacío hoy) · ángulo «300 plantillas, 95 % OFF».
+- **Ads Library:** US https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=316333711567922
+- **Landing:** no visible desde la nube: verificar en la PC (precio, tipo de embudo y si «Chris» es marca personal) antes de decidir.
+- Score 2/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Ayer se reportó con ~1 día de ads; hoy la API da ~9.8 d: confirmar que no son ads reciclados.
+
+**Señales del día EN (2026-11-25):**
+- Portal da Pedagogia (1317235804801190): 23 ads activos US «5,000+ actividades $15/$9», 0 con 7+ d (el más viejo ~5 d); re-medir ~2026-11-30.
+- Alisson Drusk (1455127851013740): «4,000+ Welding Plans $9», 10 ads US, todos <2 d; re-medir en 7 d.
+- Huella `digital download pdf` GB: solo churn <48 h (patrones de crochet PDF: Let's Crochet 252549107943475, Yarnelleshop; planners ADHD: AMVEX-DIGITALe, vireondigital.shop); sin cohorte.
+
 EN 2026-11-24 (tarde): nada que pase la vara; se barrió printable planner, instant/digital download, gumroad, payhip, cheat sheet, study guide, spreadsheet template, digital guide pdf, $9.99, $17, blueprint protocol.
 **Señales del día EN:**
 - Bev Jessup (pid 111082667173499): cohorte 7+ US 19/50 y GB 45/50, pero es workshop gratis (lead magnet) y posible marca personal; el planner $11 tiene 26 ads de <1 día. Re-medir en 7 días.
