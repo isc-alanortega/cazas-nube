@@ -7,3 +7,4 @@
 ## [2026-11-24] caza | Nichos excluidos por el dueño: religion, neurokids, recetarios, actividades-para-adultos-mayores, relaciones
 ## [2026-11-25] caza-auto | EN C operadores plantillas-excel → 1 candidatos a bandeja
 ## [2026-11-25] caza-auto | EU huella (cola vacía) → 2 candidatos a bandeja
+## [2026-11-25] caza-auto | BR A huella (sin nodo BR en cola) → 0 candidatos a bandeja

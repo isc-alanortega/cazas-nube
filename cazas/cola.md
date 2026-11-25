@@ -47,6 +47,10 @@ los nichos que emergen.
 | plantillas-negocio-word-excel | — | EU/EN | virgen | Dragon Fire Method cohorte 23+ (copy EN) | verificar si el producto es real o marca genérica |
 | patrones-crochet-pdf | — | EU | virgen | Stitchy 17/31, Crochet school 10/20 DE | abrir snapshot: ¿PDF o kit? |
 | haccp-restauracion | — | EU (PT) | virgen | Clear Guides, Makers Bench PT (cohorte 0, lanzamientos) | re-medir en 7 días |
+| fichas-ilustradas-oficios-br | — | BR (fuente→EU) | virgen | 2026-11-25 BR: Ideias que Inspiram 8 ads/cohorte 2 (anatomía/impermeabilización/fono), O Eletricista Ilustrado 11 ads de 1 d, Magna Forja, Escala 47 | re-medir en 7 días (mismo molde «fichas visuales» de EU); apareció por huella el 2026-11-25 |
+| planillas-listas-br | — | BR (fuente→EU/EN) | virgen | 2026-11-25 BR: Escala Nova «escala 5x2 R$17,90» 13 ads/cohorte 2; Tera Studio (R$27 planillas, mezcla con servicio web) 12 ads de 1 d; Patrick James 3 ads | re-medir Escala Nova ~2026-12-02 |
+| mapas-visuales-concursos-br | — | BR | virgen | 2026-11-25 BR: Escrevente em Mapas, João Silva (+100 mapas guarda municipal), Edital Organizado 9 ads/cohorte 2 (kits R$27-49) | contar con page_ids a los 7 días; apareció por huella el 2026-11-25 |
+| mapas-ingles-br | — | BR (fuente→EU) | virgen | 2026-11-25 BR: Mapinhas de Inglês 15 ads, todos <1 d (+500 mapinhas) | re-medir ~2026-12-02 |
 
 ---
 
@@ -78,6 +82,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `passo a passo PDF` (PT) y `mini curso` | matchean `passo a passo` suelto: clínicas, stands, dramas, coaches | `download imediato`, `planeador PDF` |
 | `digistore24` (DE) | coaches, lead magnets, agencias | no usar |
 | copy en otro idioma dentro de un país (Lingua Chiara IT en DE, Dragon Fire EN) | infla el país | leer el idioma de cada título y contar en el país del copy |
+| `ebook completo`, `material digital`, `acesso vitalício` (BR, nov-2026) | 5.000-54.000 resultados; los 50 primeros son de las últimas 24 h (Black Friday, Natal) y mezclan receitas, mentores y concursos | barrer para leer nombres de página y contar cada una con `page_ids` + `countries`; en BR la mayoría de las páginas de infoproducto tiene 3-15 ads y <2 d de vida |
 
 ## Operadores a seguir (modo C)
 
@@ -107,7 +112,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-25 mañana | BR | A huella (mié = B perforar, pero la cola no tiene nodos BR → cola vacía para BR) | — | en curso | en curso | — |
+| 2026-11-25 mañana | BR | A huella (mié = B perforar, pero la cola no tenía nodos BR → cola vacía para BR) | — | 6 huellas BR (guia prático pdf, planilha pronta, mapas mentais, ebook completo, material digital, acesso vitalício) + 11 page_ids | 0 tarjetas: ninguna página llega a cohorte 10 (todo <2 d; mejores: Escala Nova 13 ads/2 cohorte, Edital Organizado 9/2) | 4 nodos nuevos `virgen` |
 | 2026-11-25 mañana | EN | C operadores (tabla y agenda vacías → re-medición de señales 11-24 + huellas nuevas) | — | page_ids Excelbychris, Bev Jessup, Alisson Drusk, Portal da Pedagogia + `digital download pdf` GB | 1 tarjeta: Excelbychris US (32/50 cohorte 7+); resto señales | nodos nuevos `virgen`: crochet-patrones-pdf, adhd-planners; plantillas-excel con candidato |
 | 2026-11-25 mañana | EU | A huella (cola vacía) | — | 10 huellas × DE/FR/IT/PT (PDF Anleitung, Download sofort, E-Book, Vorlage Download, Planer PDF, Checkliste PDF, Mini-Kurs, guide PDF, passo dopo passo PDF, download imediato, precios 9,99/19,90…) + 4 barridos por país + 60 conteos por page_id | 2 tarjetas: Rachel Bennett (Kita 5 €) y red de fichas visuales PDF (Studio Facile PT, Bianca FR/IT); señal fuerte Emito DE | nodos nuevos `virgen`/`superficial` abajo |
 | 2026-11-24 tarde | EN | A huella (cola vacía) | — | 11 huellas × US+GB (printable planner, instant/digital download, gumroad, payhip, cheat sheet, study guide, spreadsheet template, digital guide pdf, $9.99, $17, blueprint protocol) | 0 tarjetas; todo churn de <48 h salvo Bev Jessup (workshop gratis) | nodos nuevos `virgen`: plantillas-excel, planner-cristiano, guias-oficios-bonus |

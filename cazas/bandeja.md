@@ -74,6 +74,11 @@ EN 2026-11-24 (tarde): nada que pase la vara; se barrió printable planner, inst
 - Crearis Digital (1111358908733137): 173 ads IT / 46 FR lanzados en <3 días, serie «X Illustré»; re-medir en 7 días.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
+BR 2026-11-25: nada que pase la vara; se barrió guia prático pdf, planilha pronta, mapas mentais, ebook completo, material digital, acesso vitalício + 11 páginas contadas por page_id (ninguna llega a cohorte 10).
+**Señales del día BR:**
+- Escala Nova (1428070477056944): «Escala 5x2 pronta R$ 17,90» (planilla de turnos), 13 ads activos, cohorte 7+ = 2; re-medir ~2026-12-02.
+- Ideias que Inspiram (1422108130980376): fichas/mapas visuales PDF de salud y obra (mismo molde de la tarjeta EU de fichas visuales), 8 ads, cohorte 2; O Eletricista Ilustrado (1445068878687582): 11 ads de ~1 d, mismo molde; re-medir en 7 d.
+- Mapinhas de Inglês (1482528891605436): «+500 Mapinhas» 15 ads, todos <1 d; Edital Organizado (481942552171664): kits de concurso R$ 27-49, 9 ads, cohorte 2.
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
