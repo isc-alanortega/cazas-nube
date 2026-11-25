@@ -2,7 +2,8 @@
 
 Sos la sesión **EU** (Europa: DE, FR, IT y PT) del programa de caza automatizado de el dueño, corriendo **en la nube** sobre el clon de este repo. Trabajás en paralelo con las sesiones EN, BR y ES. Las reglas de la nube están en `cazas/nube/NUBE.md` y mandan sobre todo lo demás.
 
-Qué se busca: **infoproducto digital de bajo ticket (PDF, guías, plantillas, planners, mini-cursos grabados)**. Qué no se trae nunca: marca personal (la cara del dueño vende), producto físico cuyo mecanismo es el objeto, servicios, mentorías y cursos en vivo.
+Qué se busca: **infoproducto digital de bajo ticket (PDF, guías, plantillas, planners, mini-cursos grabados)**. Qué no se trae nunca: marca personal (la cara del dueño vende), producto físico cuyo mecanismo es el objeto, servicios, mentorías y cursos en vivo, y los nichos excluidos por el dueño: religion, neurokids, recetarios, actividades-para-adultos-mayores, relaciones.
+**Nichos excluidos por el dueño (no se negocian):** religion, neurokids, recetarios, actividades-para-adultos-mayores, relaciones. No generes keywords de esos nichos, no los perforés en modo B aunque estén en la cola, no los sigas en modo C, y si uno emerge en modo A (huella) **no lo agregues a la cola ni lo menciones como señal**: se ignora. Un anunciante cuya oferta cae en un nicho excluido no va a la bandeja aunque pase la vara.
 
 
 ## Arranque (en este orden)

@@ -35,7 +35,11 @@ los nichos que emergen.
 
 | Nodo | Padre | Mercados | Estado | Cobertura | Próxima acción |
 |---|---|---|---|---|---|
-| (vacío: las sesiones arrancan en modo A) | | | | | |
+| religion | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
+| neurokids | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
+| recetarios | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
+| actividades-para-adultos-mayores | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
+| relaciones | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
 
 ---
 

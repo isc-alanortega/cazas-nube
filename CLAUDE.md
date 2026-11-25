@@ -17,7 +17,7 @@ skills/cazar/       # la skill, dentro del repo porque la nube no tiene ~/.claud
 ```
 
 **Sesiones:** EN: US y GB (destino y fuente); EU: DE, FR, IT y PT (destino y fuente); BR: Brasil (fuente); ES: mundo hispano (fuente). Máximo 2 tarjetas por sesión y por corrida. Vara: cohorte de **10 o más** ads con 7+ días activos de un solo page_id.
-Se busca: infoproducto digital de bajo ticket (PDF, guías, plantillas, planners, mini-cursos grabados). No se trae nunca: marca personal (la cara del dueño vende), producto físico cuyo mecanismo es el objeto, servicios, mentorías y cursos en vivo.
+Se busca: infoproducto digital de bajo ticket (PDF, guías, plantillas, planners, mini-cursos grabados). No se trae nunca: marca personal (la cara del dueño vende), producto físico cuyo mecanismo es el objeto, servicios, mentorías y cursos en vivo, y los nichos excluidos por el dueño: religion, neurokids, recetarios, actividades-para-adultos-mayores, relaciones.
 
 **Reglas de la caza:** (1) un mercado marcado «fuente» se caza para llevar la oferta a otro lado, nunca como
 destino: el veredicto dice a cuál de US, GB, DE, FR, IT y PT se lleva. (2) El **embudo WhatsApp/Messenger es válido**: test

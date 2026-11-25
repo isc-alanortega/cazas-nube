@@ -12,3 +12,8 @@ cierra el nicho.
 
 | Anunciante / oferta | page_id | Nicho | Mercado | Motivo | Permanencia | Fecha |
 |---|---|---|---|---|---|---|
+| (nicho entero: Religion) | — | religion | todos | excluido por el dueño en la instalación | 🔴 permanente | 2026-11-24 |
+| (nicho entero: NeuroKids) | — | neurokids | todos | excluido por el dueño en la instalación | 🔴 permanente | 2026-11-24 |
+| (nicho entero: recetarios) | — | recetarios | todos | excluido por el dueño en la instalación | 🔴 permanente | 2026-11-24 |
+| (nicho entero: actividades para adultos mayores) | — | actividades-para-adultos-mayores | todos | excluido por el dueño en la instalación | 🔴 permanente | 2026-11-24 |
+| (nicho entero: relaciones) | — | relaciones | todos | excluido por el dueño en la instalación | 🔴 permanente | 2026-11-24 |
