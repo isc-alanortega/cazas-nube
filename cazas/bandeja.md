@@ -25,6 +25,12 @@ histórico.
 ## Pendientes de revisión
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
+EN 2026-11-24 (tarde): nada que pase la vara; se barrió printable planner, instant/digital download, gumroad, payhip, cheat sheet, study guide, spreadsheet template, digital guide pdf, $9.99, $17, blueprint protocol.
+**Señales del día EN:**
+- Bev Jessup (pid 111082667173499): cohorte 7+ US 19/50 y GB 45/50, pero es workshop gratis (lead magnet) y posible marca personal; el planner $11 tiene 26 ads de <1 día. Re-medir en 7 días.
+- Linework Books (1381943905010114): 50+ ads/país, todos de <24 h, bloques de 5 por título (guías «+ 2 bonus books»): churn, sin cohorte.
+- Excelbychris (316333711567922): 13 ads «300 Excel Templates» de ~1 día, sin cohorte; re-medir en 7 días.
+- Planuppro (101376582798836) 10 ads y Charles Whitmore (1367971366405651) 7 ads: bundles digitales de <2 días, sin cohorte.
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
