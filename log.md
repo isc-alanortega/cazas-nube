@@ -12,3 +12,4 @@
 ## [2026-11-25] caza-auto | EU B perforar material-docentes-pdf (tarde) → 2 candidatos a bandeja
 ## [2026-11-25] caza-auto | EN B perforar adhd-planners (tarde) → 1 candidatos a bandeja
 ## [2026-11-25] caza-auto | BR A huella (tarde, sin nodo libre) → 1 candidatos a bandeja
+## [2026-11-25] caza-auto | ES B perforar mapas-fiscales-mx (tarde) → 1 candidatos a bandeja

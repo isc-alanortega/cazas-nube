@@ -132,6 +132,21 @@ BR 2026-11-25: nada que pase la vara; se barrió guia prático pdf, planilha pro
 - Mapinhas de Inglês (1482528891605436): «+500 Mapinhas» 15 ads, todos <1 d; Edital Organizado (481942552171664): kits de concurso R$ 27-49, 9 ads, cohorte 2.
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 «Kit Contable Práctico: 70 casos de contabilidad en PDF + Excel» (por país) — Ebookify GT/MX · `mapas-fiscales-mx` (hallado al perforar; nodo nuevo `contabilidad-kit-pais-es`) · 2026-11-25 tarde · sesión ES
+- **Qué es:** kit de 70 casos prácticos de contabilidad/impuestos locales en PDF + Excel (IVA, ISR/RESICO, nómina, aguinaldo, fechas del SAT), versionado por país («de México», «de Guatemala»); un anuncio dice «Paga por transferencia». Precio no visible por API.
+- **Por qué es ganador:** GT cohorte 7+ de 18/23 activos de un solo page_id (MX 5/10; total 23/33, todos activos) · creados en ≥7 tandas (~19, ~15, ~13, ~10, ~9, ~3, ~2 d): operador vivo que reinvierte · un SKU re-localizado por país con ángulo de multa/fecha del SAT · página de marca (Ebookify), sin cara.
+- **Qué hacer:** modelar el molde «70 casos locales + plantillas Excel» con el sistema fiscal de cada país · fuente GT/MX → destino DE, FR, IT, PT (probar US en español) · ángulo «una multa cuesta más que este kit».
+- **Ads Library por país:** GT https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GT&view_all_page_id=530640753468877 · MX https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=530640753468877
+- **Landing:** no visible desde la nube (sin URL en la API); «Paga por transferencia» sugiere cierre por transferencia/mensaje: verificar en la PC precio, checkout y que el entregable sea PDF/Excel. Snapshots: https://www.facebook.com/ads/library/?id=29641816675507205 · https://www.facebook.com/ads/library/?id=941461362230938
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~19 d), snapshot no verificado.
+
+**Señales del día ES (tarde, 2026-11-25):**
+- Red «100 páginas del DOF… o un mapa» (Mapa Fiscal 1387458961125724, Reforma tributaria 1394329377105320, Academia Contable 1118542624667712), MX: Reforma tributaria 40 ads con el más viejo ~5 d, resto <2 d, cohorte 0; re-medir ~2026-12-02.
+- Formación Práctica (1314377845092137): «Kit Contable Definitivo – Colección Completa», 5 ads, el más viejo ~7 d, cohorte ≤4; re-medir ~2026-12-02.
+- Andrea (1514478781740559): «7 cuadernillos + 5 plantillas de Excel», 11 ads, 5 de hoy y 6 de ~11 d (cohorte 6); no llega.
+- RRHH a la Vista (1319441417928754): tableros de sueldos/vacaciones en Excel, 2 ads, cohorte 1; seguir.
+
 ### 🎯 Atlas/Vademécum de farmacología y ECG de enfermería en PDF — Medical System Global (antes «Aula de Enfermería») AR · `enfermeria-farmacologia-pdf` · 2026-11-25 · sesión ES
 - **Qué es:** PDF/atlas para estudiantes de enfermería: vademécum +1.600 fármacos, 500 páginas con esquemas, 53 capítulos de farmacología, 190 ECG reales, mapas del sistema nervioso. Precio no visible por API.
 - **Por qué es ganador:** AR cohorte 7+ de 12/39 activos (conteo completo, un solo page_id; 3 de los 12 con 7,08 d, sin ellos 9) · ≥10 fechas de creación distintas, ads de hoy · ad más viejo 64 d con el mismo ángulo «cada fármaco, con cada efecto» · no es marca personal · MX 19 activos sin cohorte, ES 0.

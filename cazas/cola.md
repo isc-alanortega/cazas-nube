@@ -55,7 +55,8 @@ los nichos que emergen.
 | adhd-planners | — | EN | superficial | 2026-11-25 EN tarde: 5 keywords; red física `Brain Dump Planner Pad` (ignorar); EaseUp Planners US 50/50 piso | verificar si EaseUp es digital; re-medir Hustle Ledger/vireondigital ~2026-12-02 |
 | fichas-psicopatologia-pdf | fichas-visuales-pdf | EN (fuente→EU) | virgen | 2026-11-25 EN: Zentra Digital US 29/45, GB 25/36 (tarjeta) | verificar landing en PC; buscar clones y copias en DE/FR/IT/PT |
 | enfermeria-farmacologia-pdf | — | ES (fuente→EU) | superficial | 2026-11-25 ES: Medical System Global AR 12/39 (atlas farmacología, ECG); Doctor PDF MX 7 | medir en IT/PT/FR/DE con page_ids; perforar subnichos (ECG, fichas guardias, mapas); apareció por huella el 2026-11-25 |
-| mapas-fiscales-mx | — | ES | virgen | 2026-11-25 ES: red «100 páginas del DOF… o un mapa» (Mapa Fiscal, Reforma tributaria, Academia Contable), <1 d | re-medir ~2026-12-02; apareció por huella el 2026-11-25 |
+| mapas-fiscales-mx | — | ES | superficial | 2026-11-25 tarde ES: red «100 páginas del DOF… o un mapa» (3 páginas) cohorte 0 (<2 d; Reforma tributaria ~5 d); Formación Práctica kit contable ≤4 | re-medir red ~2026-12-02; perforar RESICO/nómina/aguinaldo |
+| contabilidad-kit-pais-es | mapas-fiscales-mx | ES (fuente→EU) | virgen | 2026-11-25 tarde ES: Ebookify GT 18/23, MX 5/10 (tarjeta); 70 casos PDF+Excel por país | verificar landing en PC; buscar clones en CO/AR/PE/CL y moldes por país en DE/FR/IT/PT |
 
 ---
 
@@ -74,6 +75,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | frases largas en `search_terms` | el matcher es **AND por token** | pares de palabras |
 | huellas anchas en 🇧🇷 (`acesso imediato`, `apostila`, `kiwify`, precios) | decenas de miles de ads, los 50 primeros son de hoy: sirven para leer nombres de página, no para medir | barrer → anotar ~30 páginas → contar cada una con `page_ids` + `countries`; rinden `guia prático pdf`, `planilha pronta`, `ebook completo`, `material digital` |
 | bloque `es` sin BO / EC / GT | subcuenta a los operadores andinos | `countries: ["MX","CO","AR","PE","CL","BO","EC","GT","ES"]` |
+| `contabilidad plantillas`, `declaración anual` (MX, nov-2026) | despachos, seguros, academias en vivo y asesorías | `kit contable PDF Excel` y los títulos de ad («70 casos», «una multa del SAT cuesta más que este kit») traen el infoproducto |
 | `Chatea con nosotros`, `OFERTA SOLO HOY` (ES, nov-2026) | títulos de CTA sin oferta (Aprendo Fácil, Estudiando+) | leer el nombre de página y abrir snapshot; sí rinde `apuntes enfermería` |
 | `ad_creation_time` viejo sin impresiones | ads zombis | abrir el snapshot: «isn't in the Ad Library / no impressions» no cuenta |
 | follow ads («Visit Instagram profile») | infl an la longevidad | la longevidad se lee **sobre el ad que vende** |
@@ -121,7 +123,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-25 tarde | ES | B perforar (nodo libre: mapas-fiscales-mx, virgen; el resto de nodos ES tocado hoy) | mapas-fiscales-mx | en curso | en curso | en curso |
+| 2026-11-25 tarde | ES | B perforar (nodo libre: mapas-fiscales-mx, virgen; el resto de nodos ES tocado hoy) | mapas-fiscales-mx | 6 (mapa fiscal, declaración anual, contabilidad plantillas, RESICO guía, kit contable PDF Excel) + page_ids Ebookify, Reforma tributaria, Andrea | 1 tarjeta: Ebookify GT 18/23 · MX 5/10 (kit contable por país); red «mapa DOF» cohorte 0 | superficial; nodo nuevo contabilidad-kit-pais-es |
 | 2026-11-25 tarde | BR | A huella (ningún nodo BR libre: todos tocados hoy) | — | 7 huellas (checklist pdf, modelos editáveis, kit imprimível, download imediato, pronto para imprimir, planner pdf, Aula da Saudade) + 9 page_ids | 1 tarjeta: Explora Ciencias BR 22/38 (kits profes); señal Mapas Visuais (cohorte inferida) | nodo nuevo virgen: kits-profesores-br |
 | 2026-11-25 tarde | EU | B perforar | material-docentes-pdf | ~12 keywords nativas DE/FR/IT/PT (Unterrichtsmaterial Download, Arbeitsblätter Grundschule PDF, Lehrer Vorlagen, fiches pédagogiques, Maths Prêtes, materiale didattico maestre, schede didattiche PDF, programações anuais, fichas de trabalho, planificações professores) + page_ids Emito, EDT Labs, L'Année Prête, Belle Plume, Marie Bernard, Tiny Makers, Impulso Digital | 2 tarjetas: Emito DE 42/50 + EDT Labs FR 18/27 (molde «cours de maths prêts»); L'Année Prête FR 14/17. IT y PT sin cohorte (0 ads) | material-docentes-pdf: profundo en DE/FR, superficial en IT/PT |
 | 2026-11-25 tarde | EN | B perforar (ningún nodo EN libre → se abrió `adhd-planners`, virgen de la mañana EN) | adhd-planners | 5 keywords (ADHD planner US/GB, workbook pdf, printable, digital planner, template notion) + 5 page_ids | 1 tarjeta: Zentra Digital US 29/45 · GB 25/36 (210 fichas psicopatología); señal EaseUp Planners (US 50/50 piso, tipo no verificado) | adhd-planners superficial; nodo nuevo fichas-psicopatologia-pdf |
