@@ -112,6 +112,19 @@ EN 2026-11-24 (tarde): nada que pase la vara; se barrió printable planner, inst
 - Crearis Digital (1111358908733137): 173 ads IT / 46 FR lanzados en <3 días, serie «X Illustré»; re-medir en 7 días.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 Kit «Aula da Saudade» / kits PDF para profesores — Explora Ciencias BR · `material-docentes-pdf` (fuente BR → FR/DE) · 2026-11-25 tarde · sesión BR
+- **Qué es:** kits PDF para profesores (fin de año: «Asas das Memórias – Kit Aula da Saudade em PDF»); la mayoría de los ads no trae título, así que el resto del catálogo no se lee por API. Precio no visible.
+- **Por qué es ganador:** BR cohorte 7+ de 22/38 activos (conteo completo, un solo page_id) · ≥3 fechas distintas, ads de hoy → operador vivo · ad más viejo ≈ 30 d, tandas a ~9, ~14 y ~30 d · no es marca personal (nombre de página temático).
+- **Qué hacer:** llevar el molde «kit de cierre de curso listo para imprimir» a FR/DE (nodo material-docentes-pdf, donde ya hay Emito DE y EDT Labs FR) · ojo estacional: pico de diciembre · confirmar en la PC qué vende cada tanda de ads sin título antes de decidir.
+- **Ads Library:** BR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=637648923296874
+- **Landing:** no verificada desde la nube (403); snapshots: https://www.facebook.com/ads/library/?id=1117731000892606 · https://www.facebook.com/ads/library/?id=1453122077024960
+- Score 2/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API, snapshot no verificado.
+
+**Señales del día BR (tarde):**
+- Mapas Visuais & ilustrados (1316538911539485): 184 activos estimados (muestra 50), cohorte verificada 6 (más viejos ~8,5 d); la API ordena por antigüedad, así que podría haber ~130 más viejos, pero no está verificado; copy solo «⭐ 9.8/10». Primer candidato para re-medir en la PC.
+- Pequenos Gênios (1484005411457407): kit educación financiera infantil R$ 27, 6 ads, cohorte 6/6 (~9 d); Guias e Manuais para ajuda (999834106555562): kits docentes, 27 activos, cohorte 4 (parte AEE = posible neurokids, ignorar esa parte).
+- Camila R (1384001198122660): bundle genérico de «modelos/fichas» (incluye religión), 100 activos, todo ~1 d; no es un producto único.
 BR 2026-11-25: nada que pase la vara; se barrió guia prático pdf, planilha pronta, mapas mentais, ebook completo, material digital, acesso vitalício + 11 páginas contadas por page_id (ninguna llega a cohorte 10).
 **Señales del día BR:**
 - Escala Nova (1428070477056944): «Escala 5x2 pronta R$ 17,90» (planilla de turnos), 13 ads activos, cohorte 7+ = 2; re-medir ~2026-12-02.
