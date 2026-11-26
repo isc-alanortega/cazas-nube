@@ -85,6 +85,20 @@ EN 2026-11-24 (tarde): nada que pase la vara; se barrió printable planner, inst
 - Planuppro (101376582798836) 10 ads y Charles Whitmore (1367971366405651) 7 ads: bundles digitales de <2 días, sin cohorte.
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 «520 mappe mentali / cartes mentales de inglés A1→C2» (PDF + 5-6 bonus, 12,90 €) — Lingua Chiara IT + Camille Dubois FR · `mapas-mentales-idiomas` · 2026-11-26 · sesión EU
+- **Qué es:** pack PDF de 520 mapas mentales para aprender inglés de A1 a C2 («1 regla por mapa», «imprime, mira, habla») con 5-6 bonus; 12,90 € pago único (precio dicho en los títulos de los ads, «Black Friday hasta el 30/11»). Mismo producto en IT y FR (y variantes español/francés para italianos).
+- **Por qué es ganador:** Lingua Chiara IT cohorte 7+ ≥ 33 de 36 vistos (muestra de una búsqueda; 384 activos estimados) y DE ≥ 31/50 (107 activos), creados desde el 14-oct en ≥ 8 tandas · Camille Dubois FR ≥ 46/50 de 268 activos (tandas 11-nov, 20-nov y 25-nov) · páginas con nombre propio pero títulos de producto; red de clones ya vivos (<3 d) en FR/IT/PT: Céline Moreau, English Boussolev, BFS Academy «630 cartes», Mappe in inglese «+300 por 15 €», Mapa do Inglês PT, Atril Estudio. Cada página cuenta por separado; no se suman.
+- **Qué hacer:** modelar tal cual (mapas mentales de idioma por nivel + bonos de falsos amigos/ser-estar) · destino IT, FR, DE, PT (inglés para hispanos y lusófonos aún sin medir) · ángulo «no memorices, mira la regla» + precio de impulso 12,90 €. Ojo: marca de persona ficticia por mercado; verificar en la PC que no hay cara.
+- **Ads Library por país:** IT https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=1034177656443347 · DE …country=DE&view_all_page_id=1034177656443347 · FR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1077014278820945
+- **Landing:** no verificada desde la nube (sin URL en la API): verificar en la PC (precio, checkout, si hay cara). Snapshots: https://www.facebook.com/ads/library/?id=1676540130682803 · https://www.facebook.com/ads/library/?id=935704186176047
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (Lingua Chiara más viejo ~45 d, Camille ~14 d), snapshot no verificado.
+
+**Señales del día EU (mañana, 2026-11-26):**
+- Red clon del mismo molde, todas con ads <3 d (cohorte 0 hoy, re-medir ~2026-12-03): Céline Moreau FR (1367953336410558, «+300 cartes mentales», cohorte 3 de 33), English Boussolev FR, BFS Academy FR «630 Cartes Mentales», Esprit Académique FR («+300 cartes… espagnol», 4 ads), Mappe in inglese IT (1431021496764903, «+300 por 15 €», 8 ads), Mappa Mente IT, Inglese Facile IT, Mapa do Inglês PT (1170077372866827, «520 mapas mentais», ≥50 ads, creados hace ~2 d), Marcela Gomes PT («55 Mapas Mentais», 3 ads).
+- Atril Estudio (1282575998279080): ads «4,9/5 estrellas» en IT/DE/FR, ≥10 ads de 1-3 d; oferta no legible (solo prueba social); re-medir.
+- Mappe di Fluidità IT (1159345370604714): «Parlala. Non solo studiarla.» ≥11 ads de 1 a ~50 d (más viejo ~ 11 d en la muestra); oferta no identificada; verificar.
+
 ### 🎯 «Mathestunden fertig vorbereitet» / «Vos cours de maths déjà prêts» (Maths Prêtes™) — Emito DE + EDT Labs FR · `material-docentes-pdf` · 2026-11-25 tarde · sesión EU
 - **Qué es:** clases de matemáticas ya preparadas para docentes (probable pack descargable por curso); misma oferta en DE (Emito) y FR (EDT Labs, «Maths Prêtes™», «Retrouvez vos dimanches soirs»). Precio y formato no visibles en la API.
 - **Por qué es ganador:** Emito DE cohorte 42/50 activos (piso, 62 estimados) en 4 fechas de creación (hace 15, 14, 12 y 1 d) · EDT Labs FR 18/27, 3 fechas · dos páginas sin cara, un mismo título repetido = creativo escalado; no se suman.
