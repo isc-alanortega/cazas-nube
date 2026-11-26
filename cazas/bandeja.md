@@ -182,6 +182,30 @@ BR 2026-11-25: nada que pase la vara; se barrió guia prático pdf, planilha pro
 - Mapinhas de Inglês (1482528891605436): «+500 Mapinhas» 15 ads, todos <1 d; Edital Organizado (481942552171664): kits de concurso R$ 27-49, 9 ads, cohorte 2.
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 Planner imprimible «para vaciar la cabeza» + 5 bonos — Planner Hoy Solo 3 MX/ES · `planner-vaciar-cabeza-es` (nodo nuevo; hallado por huella `planner imprimible PDF`) · 2026-11-26 · sesión ES
+- **Qué es:** planner de una hoja («la lista eterna de tu cabeza cabe en una hoja», «vacía la cabeza y elige tus 3 de hoy») con 5 bonos de regalo; entregable PDF imprimible inferido, precio no visible por API.
+- **Por qué es ganador:** cohorte 7+ de 43/50 activos (piso; est. 54) con los 9 países y 45/50 en MX (piso; est. 51), de un solo page_id · ≥12 tandas de creación, la más vieja ~36 d, y una de hoy: operador vivo que reinvierte · mismo creativo reciclado con ~8 hooks · página de marca, sin cara.
+- **Qué hacer:** modelar un planner de una página «brain dump → 3 prioridades» + bonos · fuente MX/ES → destino US y GB (cruzar con `adhd-planners`: ahí la red es física y clon, un digital limpio es hueco) y luego DE/FR/IT/PT · ángulo «vaciá la cabeza, elegí tus 3».
+- **Ads Library por país:** MX https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1280820831792286
+- **Landing:** no visible desde la nube (sin URL en la API): verificar en la PC precio, checkout y que el entregable sea PDF y no producto físico. Snapshots: https://www.facebook.com/ads/library/?id=1174011888301622 · https://www.facebook.com/ads/library/?id=1111384648560514
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~36 d), snapshot no verificado.
+
+### 🎯 «Cuaderno de Derecho»: 16 materias, 800 resúmenes, 800 tarjetas, 192 casos y 4 bonos — Cuaderno de Derecho MX/AR/CL/ES · `cuaderno-carrera-app-es` (nodo nuevo; hallado por huella `apuntes PDF resúmenes`) · 2026-11-26 · sesión ES
+- **Qué es:** paquete de estudio de Derecho (mapas mentales, resúmenes, flashcards, banco de 300 preguntas tipo examen, casos resueltos, buscador por tema), vendido como «una app en vez de un PDF gigante» con 7 días de garantía; precio no visible por API.
+- **Por qué es ganador:** cohorte 7+ MX 19/50 (piso; est. 65) y AR+CL+ES 22/50 (piso; est. 72), de un solo page_id (el split por país individual no se midió) · creado en ≥9 tandas (~2, ~5, ~6, ~7, ~8, ~10, ~11 d) con ~30 hooks distintos: creativo escalado y operador vivo · página de marca, sin cara.
+- **Qué hacer:** modelar un «cuaderno de carrera» por materia (resúmenes + tarjetas + casos + buscador) · fuente ES → destino IT, PT, FR, DE (probar US en español) · **riesgo:** el formato es app/web, no PDF: si es software/suscripción, baja a señal.
+- **Ads Library por país:** MX https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1426557477213473 · AR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1426557477213473
+- **Landing:** no visible desde la nube: verificar en la PC (precio, si hay checkout directo, si es app o archivos). Snapshots: https://www.facebook.com/ads/library/?id=1955443632110835 · https://www.facebook.com/ads/library/?id=2247031055846045
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~11 d), snapshot no verificado.
+
+**Señales del día ES (mañana, 2026-11-26):**
+- Página a Página (1511541105373298): temarios ilustrados de oposiciones, 36 activos, la tanda más vieja ~6,5 d (cohorte 0 hoy); re-medir ~2026-11-27.
+- Terapeuta Creativo (1424770904049916): kit de cartas terapéuticas, 19 activos, cohorte 7; posible producto físico impreso: verificar.
+- Ediciones Borne Latinoamérica (1408967505637893): guías ilustradas RETIE/NOM-001, 14 ads, todos <1 d; re-medir ~2026-12-02.
+- Fer Rendon (1977647735819349) MX: plantillas Excel, ads de 5-7 d, cohorte 0; posible marca personal.
+
 ### 🎯 «Kit Contable Práctico: 70 casos de contabilidad en PDF + Excel» (por país) — Ebookify GT/MX · `mapas-fiscales-mx` (hallado al perforar; nodo nuevo `contabilidad-kit-pais-es`) · 2026-11-25 tarde · sesión ES
 - **Qué es:** kit de 70 casos prácticos de contabilidad/impuestos locales en PDF + Excel (IVA, ISR/RESICO, nómina, aguinaldo, fechas del SAT), versionado por país («de México», «de Guatemala»); un anuncio dice «Paga por transferencia». Precio no visible por API.
 - **Por qué es ganador:** GT cohorte 7+ de 18/23 activos de un solo page_id (MX 5/10; total 23/33, todos activos) · creados en ≥7 tandas (~19, ~15, ~13, ~10, ~9, ~3, ~2 d): operador vivo que reinvierte · un SKU re-localizado por país con ángulo de multa/fecha del SAT · página de marca (Ebookify), sin cara.

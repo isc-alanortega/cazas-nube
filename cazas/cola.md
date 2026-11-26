@@ -60,6 +60,8 @@ los nichos que emergen.
 | enfermeria-farmacologia-pdf | — | ES (fuente→EU) | superficial | 2026-11-25 ES: Medical System Global AR 12/39 (atlas farmacología, ECG); Doctor PDF MX 7 | medir en IT/PT/FR/DE con page_ids; perforar subnichos (ECG, fichas guardias, mapas); apareció por huella el 2026-11-25 |
 | mapas-fiscales-mx | — | ES | superficial | 2026-11-25 tarde ES: red «100 páginas del DOF… o un mapa» (3 páginas) cohorte 0 (<2 d; Reforma tributaria ~5 d); Formación Práctica kit contable ≤4 | re-medir red ~2026-12-02; perforar RESICO/nómina/aguinaldo |
 | contabilidad-kit-pais-es | mapas-fiscales-mx | ES (fuente→EU) | virgen | 2026-11-25 tarde ES: Ebookify GT 18/23, MX 5/10 (tarjeta); 70 casos PDF+Excel por país | verificar landing en PC; buscar clones en CO/AR/PE/CL y moldes por país en DE/FR/IT/PT |
+| planner-vaciar-cabeza-es | adhd-planners | ES (fuente→EN/EU) | virgen | 2026-11-26 ES: Planner Hoy Solo 3 MX 45/50 piso (tarjeta); Método HACER «$5» y Planner/FIT sin cohorte | verificar landing en PC; re-medir ~2026-12-03; buscar clones (planner TDAH, brain dump PDF) en CO/AR/PE/CL; apareció por huella el 2026-11-26 |
+| cuaderno-carrera-app-es | — | ES (fuente→EU) | virgen | 2026-11-26 ES: Cuaderno de Derecho MX 19/50 · AR+CL+ES 22/50 (tarjeta); Página a Página cohorte 0 (36 ads, vence ~11-27); Educa Virtual conocido | verificar si es app o PDF; re-medir Página a Página ~2026-11-27; buscar «cuaderno de» + carrera (medicina, psicología, contabilidad) y moldes IT/PT/FR/DE; apareció por huella el 2026-11-26 |
 
 ---
 
@@ -80,6 +82,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | bloque `es` sin BO / EC / GT | subcuenta a los operadores andinos | `countries: ["MX","CO","AR","PE","CL","BO","EC","GT","ES"]` |
 | `contabilidad plantillas`, `declaración anual` (MX, nov-2026) | despachos, seguros, academias en vivo y asesorías | `kit contable PDF Excel` y los títulos de ad («70 casos», «una multa del SAT cuesta más que este kit») traen el infoproducto |
 | `Chatea con nosotros`, `OFERTA SOLO HOY` (ES, nov-2026) | títulos de CTA sin oferta (Aprendo Fácil, Estudiando+) | leer el nombre de página y abrir snapshot; sí rinde `apuntes enfermería` |
+| `te lo envío WhatsApp PDF`, `hotmart acceso inmediato`, `resúmenes flashcards oposiciones PDF` (ES, nov-2026) | 1.526 y 402 resultados de CTA sin oferta, religión/recetas (excluidos) y churn de hoy; la frase larga da 0 (AND por token) | sí rinden `planner imprimible PDF`, `apuntes PDF resúmenes`, `plantillas Excel descarga inmediata` |
 | `ad_creation_time` viejo sin impresiones | ads zombis | abrir el snapshot: «isn't in the Ad Library / no impressions» no cuenta |
 | follow ads («Visit Instagram profile») | infl an la longevidad | la longevidad se lee **sobre el ad que vende** |
 | `limit: 50` que devuelve 50 ads de hoy | cohorte truncada | reportar como piso, repetir con `page_ids` + `countries` |
@@ -129,7 +132,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-26 mañana | ES | A huella (jue) | — | en curso | en curso | — |
+| 2026-11-26 mañana | ES | A huella (jue; cola ES sin nodos libres tocados <7 d) | — | 7 huellas bloque ES (guía PDF acceso inmediato, plantillas Excel descarga inmediata, apuntes PDF resúmenes, hotmart acceso inmediato, planner imprimible PDF, te lo envío WhatsApp PDF, resúmenes flashcards oposiciones PDF) + 9 page_ids | 2 tarjetas: Planner Hoy Solo 3 MX 43/50 piso; Cuaderno de Derecho MX 19/50 · AR+CL+ES 22/50 (formato app, verificar); resto señales | nodos nuevos virgen: planner-vaciar-cabeza-es, cuaderno-carrera-app-es |
 | 2026-11-26 mañana | BR | C operadores (jue; tabla y agenda vacías → re-medición de señales BR 11-25 por page_id) | — | 8 page_ids BR + `mapas visuais ilustrados` + Mapinhas ALL | 1 tarjeta: Mapas Visuais & ilustrados BR ≥29/133 (producto no legible); Explora Ciencias 22/38 sin cambio; resto sin cohorte | nodo nuevo mapas-visuais-br |
 | 2026-11-26 mañana | EN | A huella (jue) | — | 6 huellas US+GB (worksheets bundle pdf, canva templates bundle, lesson plans pdf, flashcards pdf download, notion template, cheat sheets pdf) + 14 page_ids | 2 tarjetas: The Teaching Desk US 12/32 (planes anuales docentes); Clara Hayes US 29/32 · GB 24/27 (workbook acuarela, verificar marca personal); resto señales | nodos nuevos virgen: planes-anuales-docentes-en, acuarela-workbook-pdf |
 | 2026-11-26 mañana | EU | B perforar (jue; virgen más viejo EU: mapas-mentales-idiomas) | mapas-mentales-idiomas | 7 keywords/consultas nativas (mappe mentali inglese/spagnolo, Sprachen Mindmaps, Englisch Lernkarten PDF, cartes mentales anglais/espagnol, mapas mentais inglês/espanhol) + page_ids Lingua Chiara IT/DE, Camille Dubois FR, Céline Moreau FR | 1 tarjeta: Lingua Chiara IT ≥33 + Camille Dubois FR ≥46 (520 mapas inglés 12,90 €); 9 clones <3 d señalados | superficial |
