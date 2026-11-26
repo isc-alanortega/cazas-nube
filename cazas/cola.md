@@ -42,7 +42,7 @@ los nichos que emergen.
 | relaciones | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
 | kita-actividades | — | EU (+IT/PT/ES) | superficial | 2026-11-25 EU: Rachel Bennett DE cohorte 14 | perforar subnichos (Kita DE, Vorschule, Krippe) y re-medir en 7 días; apareció por huella el 2026-11-25 |
 | fichas-visuales-pdf | — | EU (+EN/ES) | superficial | 2026-11-25 EU: Studio Facile PT 16, Bianca FR 15/IT 13 | red de 10+ páginas; medir cohorte vieja de Studio Facile IT (497 ads) y Crearis; perforar por oficio; apareció por huella el 2026-11-25 |
-| material-docentes-pdf | — | EU | virgen | 2026-11-25 EU: Emito DE 41/62, Sara Brooks/Trade Pro Kit/Orbis Atlas PT | perforar (Mathe, Unterrichtsmaterial, programações anuais); apareció por huella el 2026-11-25 |
+| material-docentes-pdf | — | EU | superficial | 2026-11-25 tarde EU: Emito DE 42/50, EDT Labs FR 18/27, L'Année Prête FR 14/17 (2 tarjetas); IT y PT sin cohorte | re-medir Sara Brooks PT ~2026-12-02; perforar por nivel/asignatura (lengua, ciencias) en FR/DE y verificar landing en PC |
 | mapas-mentales-idiomas | — | EU | virgen | 2026-11-25 EU: Lingua Chiara 32/103 (copy IT en DE) | medir en IT con page_ids; apareció por huella el 2026-11-25 |
 | plantillas-negocio-word-excel | — | EU/EN | virgen | Dragon Fire Method cohorte 23+ (copy EN) | verificar si el producto es real o marca genérica |
 | patrones-crochet-pdf | — | EU | virgen | Stitchy 17/31, Crochet school 10/20 DE | abrir snapshot: ¿PDF o kit? |
@@ -86,6 +86,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `digistore24` (DE) | coaches, lead magnets, agencias | no usar |
 | copy en otro idioma dentro de un país (Lingua Chiara IT en DE, Dragon Fire EN) | infla el país | leer el idioma de cada título y contar en el país del copy |
 | `ebook completo`, `material digital`, `acesso vitalício` (BR, nov-2026) | 5.000-54.000 resultados; los 50 primeros son de las últimas 24 h (Black Friday, Natal) y mezclan receitas, mentores y concursos | barrer para leer nombres de página y contar cada una con `page_ids` + `countries`; en BR la mayoría de las páginas de infoproducto tiene 3-15 ads y <2 d de vida |
+| `Unterrichtsmaterial Download`, `programações anuais`, `materiale didattico maestre`, `fichas de trabalho` (nov-2026) | DE devuelve instituciones (Carlsen, Aktion Tagwerk); PT/IT dan 0 o dramas | en FR y DE rinde el título del ad: `cours de maths prêts`, `Mathestunden vorbereitet`, `prête dès lundi` |
 
 ## Operadores a seguir (modo C)
 
@@ -115,7 +116,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-25 tarde | EU | B perforar (en curso) | material-docentes-pdf | — | en curso | — |
+| 2026-11-25 tarde | EU | B perforar | material-docentes-pdf | ~12 keywords nativas DE/FR/IT/PT (Unterrichtsmaterial Download, Arbeitsblätter Grundschule PDF, Lehrer Vorlagen, fiches pédagogiques, Maths Prêtes, materiale didattico maestre, schede didattiche PDF, programações anuais, fichas de trabalho, planificações professores) + page_ids Emito, EDT Labs, L'Année Prête, Belle Plume, Marie Bernard, Tiny Makers, Impulso Digital | 2 tarjetas: Emito DE 42/50 + EDT Labs FR 18/27 (molde «cours de maths prêts»); L'Année Prête FR 14/17. IT y PT sin cohorte (0 ads) | material-docentes-pdf: profundo en DE/FR, superficial en IT/PT |
 | 2026-11-25 mañana | ES | C operadores (tabla y agenda vacías → huellas ES + conteo por page_id) | — | 4 huellas (plantillas excel, acceso inmediato PDF, apuntes enfermería, mapas mentales) + 17 page_ids | 1 tarjeta: Medical System Global AR cohorte 12/39 (atlas farmacología enfermería); resto señales | nodo nuevo superficial |
 | 2026-11-25 mañana | BR | A huella (mié = B perforar, pero la cola no tenía nodos BR → cola vacía para BR) | — | 6 huellas BR (guia prático pdf, planilha pronta, mapas mentais, ebook completo, material digital, acesso vitalício) + 11 page_ids | 0 tarjetas: ninguna página llega a cohorte 10 (todo <2 d; mejores: Escala Nova 13 ads/2 cohorte, Edital Organizado 9/2) | 4 nodos nuevos `virgen` |
 | 2026-11-25 mañana | EN | C operadores (tabla y agenda vacías → re-medición de señales 11-24 + huellas nuevas) | — | page_ids Excelbychris, Bev Jessup, Alisson Drusk, Portal da Pedagogia + `digital download pdf` GB | 1 tarjeta: Excelbychris US (32/50 cohorte 7+); resto señales | nodos nuevos `virgen`: crochet-patrones-pdf, adhd-planners; plantillas-excel con candidato |

@@ -47,6 +47,30 @@ EN 2026-11-24 (tarde): nada que pase la vara; se barrió printable planner, inst
 - Planuppro (101376582798836) 10 ads y Charles Whitmore (1367971366405651) 7 ads: bundles digitales de <2 días, sin cohorte.
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 «Mathestunden fertig vorbereitet» / «Vos cours de maths déjà prêts» (Maths Prêtes™) — Emito DE + EDT Labs FR · `material-docentes-pdf` · 2026-11-25 tarde · sesión EU
+- **Qué es:** clases de matemáticas ya preparadas para docentes (probable pack descargable por curso); misma oferta en DE (Emito) y FR (EDT Labs, «Maths Prêtes™», «Retrouvez vos dimanches soirs»). Precio y formato no visibles en la API.
+- **Por qué es ganador:** Emito DE cohorte 42/50 activos (piso, 62 estimados) en 4 fechas de creación (hace 15, 14, 12 y 1 d) · EDT Labs FR 18/27, 3 fechas · dos páginas sin cara, un mismo título repetido = creativo escalado; no se suman.
+- **Qué hacer:** modelar pack «tus clases de mates listas para el lunes» por nivel · destino DE y FR (probar IT/PT, 0 ads hoy) · ángulo «domingo por la noche libre».
+- **Ads Library por país:** DE https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=DE&view_all_page_id=557352500802762 · FR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1377084598812432
+- **Landing:** no verificada desde la nube (sin URL en la API): verificar en la PC si es PDF descargable o app/suscripción antes de decidir. Snapshots: https://www.facebook.com/ads/library/?id=1017275807378487 · https://www.facebook.com/ads/library/?id=2287900765385999
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube.
+
+### 🎯 «Votre année de CP prête dès lundi» (programación anual lista) — L'Année Prête FR · `material-docentes-pdf` · 2026-11-25 tarde · sesión EU
+- **Qué es:** paquete de programaciones/documentos de clase listos para docentes de primaria («8 matières», «deux niveaux, une seule préparation», «séance de demain prête ce soir»). Precio y formato no visibles.
+- **Por qué es ganador:** FR cohorte 14/17 activos de un solo page_id · creados en 8 fechas distintas desde el 30-oct hasta el 21-nov (3 ads de <5 d: operador vivo) · títulos de producto, sin cara · mismo molde «prête dès lundi» que Emito/EDT Labs.
+- **Qué hacer:** modelar programación anual por nivel (CP/CE1/CM…) con un entregable por semana · destino FR (luego IT/PT adaptando el currículo) · ángulo «tu año listo desde el lunes».
+- **Ads Library por país:** FR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1379172788614167
+- **Landing:** no verificada desde la nube: verificar en la PC (precio, tipo de embudo, si «programmation conforme» es PDF).
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube.
+
+**Señales del día EU (tarde, 2026-11-25):**
+- Impulso Digital (1131540133375582): «O Mapa do Corpo: as 81 fichas» PT 163 ads, multiidioma (DE, SV, PL, RO, CS, LT, FR); cohorte 7+ = 0 (más viejo ~5 d); mismo molde de fichas visuales; re-medir ~2026-12-02.
+- Sara Brooks (1574600642393121) PT: «professor(a) de Educação Musical» planificación anual, 12 ads de ≤6 d, cohorte 0; re-medir en 7 días.
+- Tiny Makers Lab (1454765337716545) FR: «150 enquêtes de maths à imprimer», 2 ads (1 de ~12 d), no llega.
+- Belle Plume, Marie Bernard («+50 cartes mentales de mathématiques»), Madame Élise («+500 activités illustratives», 1 ad): aparecen en la huella FR pero devuelven 0 con page_ids+FR (anuncian en otros países); no medidos.
+
 ### 🎯 Pack de +500 actividades para Kita/Kindergarten (PDF 5 €) — Rachel Bennett DE · `kita-actividades` · 2026-11-25 · sesión EU
 - **Qué es:** pack digital de «+500 Aktivitäten» / planificación lista para Kita, a 5 € (9,90 USD en ES, 129 Kč en CZ). Entregable PDF inferido del título; precio visto en el título del ad.
 - **Por qué es ganador:** DE cohorte 14 en alemán (19 contando IT/ES) de 50 vistos de 74 activos (piso) · creados en ≥8 fechas distintas, el más nuevo de hoy · misma oferta traducida a IT, PT, ES y CS (el operador la escala por idioma) · no es marca personal (títulos de producto, sin cara en el copy).

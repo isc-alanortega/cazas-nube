@@ -9,3 +9,4 @@
 ## [2026-11-25] caza-auto | EU huella (cola vacía) → 2 candidatos a bandeja
 ## [2026-11-25] caza-auto | BR A huella (sin nodo BR en cola) → 0 candidatos a bandeja
 ## [2026-11-25] caza-auto | ES C operadores (huellas, tablas vacías) → 1 candidatos a bandeja
+## [2026-11-25] caza-auto | EU B perforar material-docentes-pdf (tarde) → 2 candidatos a bandeja
