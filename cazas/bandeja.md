@@ -25,6 +25,30 @@ histórico.
 ## Pendientes de revisión
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 Planes anuales «ya planeados» para docentes de materias especiales (coro, teatro, idiomas) — The Teaching Desk US · `planes-anuales-docentes-en` (hijo de `material-docentes-pdf`; hallado por huella `lesson plans pdf`) · 2026-11-26 · sesión EN
+- **Qué es:** planes de año completo clase por clase para docentes («Your whole Spanish year, ready to teach», «Every rehearsal. Already planned.», «36 weeks of sight-singing, in order», sub plans). Formato digital inferido; precio no visible.
+- **Por qué es ganador:** cohorte 7+ US 12/32 activos de un solo page_id (creados hace ~28, ~32 y ~37 d) · tanda nueva hace 0.6-1.4 d: operador vivo · página de marca temática, sin cara · GB 0 hoy (hueco).
+- **Qué hacer:** modelar pack «tu año entero, ya planeado» por materia (coro/teatro/idioma) · destino US, probar GB y llevar a DE/FR/IT/PT (mismo molde que Emito/EDT Labs «prêt dès lundi») · ángulo «Monday's covered».
+- **Ads Library:** US https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1363375323534451
+- **Landing:** no visible desde la nube: verificar en la PC (precio, PDF vs suscripción) antes de decidir.
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~37 d), snapshot no verificado.
+
+### 🎯 Workbook «Metallic Watercolor Workbook, 103 Pages» / guía completa de acuarela botánica — Clara Hayes US + GB · `acuarela-workbook-pdf` (nodo nuevo; hallado por huella `worksheets bundle pdf`) · 2026-11-26 · sesión EN
+- **Qué es:** workbook/guía de acuarela de flores (103 páginas, «All 3 Secrets, 23 Projects», «Paint 50 Flowers»), con descuentos 40-60 % y código BLACK15. Entregable PDF inferido; precio no visible.
+- **Por qué es ganador:** cohorte 7+ US 29/32 y GB 24/27 activos de un solo page_id · ≥10 tandas de creación (de ~66 d a hoy) · mismos títulos reciclados = creativo escalado · cuenta en EUR (opera desde Europa).
+- **Qué hacer:** modelar un workbook de hobby creativo (un proyecto por página) con oferta de descuento · destino US y GB (ya corre en ambos) y luego DE/FR/IT/PT · ángulo «Slow down. Draw something beautiful.».
+- **Ads Library:** US https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1235102829697325 · GB https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1235102829697325
+- **Landing:** no visible desde la nube: verificar en la PC (precio, checkout) **y si «Clara Hayes» es marca personal** (nombre de página = persona; por API no se ve cara).
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~66 d), snapshot no verificado.
+
+**Señales del día EN (2026-11-26):**
+- Download Studio (1344017652136102): packs de curso «The Whole Course. One Box.» y «Black Friday $97 → $17», cohorte US 7/27, GB 6/21; mismo molde que Teaching Desk; re-medir ~2026-11-30.
+- Social Kit Studio (1438498629338489) «12 in 1 pack. One price.» y Sproutpals (1072404955967252, phonics): ads de <7 d, cohorte 0; re-medir ~2026-11-30.
+- Nursing Cheat Sheets (1506295449223124), The Kit Library (1440434845817613, «Pharmacology, Drawn Out · 12 Chapters for $27») y SkillForge (1246152188577813, atlas «Made Visual™» por oficio): 10-29 ads US de ≤6 d, cohorte 0; re-medir ~2026-12-02.
+- Meem Arabic (1280324951825882): US 10 ads de 37-47 d pero ninguno de los últimos 30 d → posible zombi; no pasa.
+
 ### 🎯 210 Visual Psychopathology Study Sheets — Zentra Digital US/GB · `adhd-planners` (hallado por huella printable; nodo nuevo `fichas-psicopatologia-pdf`) · 2026-11-25 · sesión EN (tarde)
 - **Qué es:** 210 fichas visuales de psicopatología (un trastorno por página, pares «parecidos» como esquizofrenia vs esquizoafectivo, TLP vs bipolar II) para estudiantes de psicología/enfermería; precio no visible.
 - **Por qué es ganador:** cohorte 7+ US 29/45 y GB 25/36 activos de un solo page_id (marca de tienda, no persona) · creada en 4 tandas (~14 d, ~12 d, ~10 d, ~5 d) más ads de hoy · un SKU con ~6 hooks por pareja de trastornos.
