@@ -15,3 +15,5 @@
 ## [2026-11-25] caza-auto | ES B perforar mapas-fiscales-mx (tarde) → 1 candidatos a bandeja
 ## [2026-11-26] caza-auto | EN A huella (mañana, sin nodo) → 2 candidatos a bandeja
 ## [2026-11-26] caza-auto | EU B perforar mapas-mentales-idiomas → 1 candidatos a bandeja
+
+## [2026-11-26] caza-auto | BR C operadores seguimiento-11-25 → 1 candidatos a bandeja

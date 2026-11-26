@@ -150,6 +150,18 @@ EN 2026-11-24 (tarde): nada que pase la vara; se barrió printable planner, inst
 - Crearis Digital (1111358908733137): 173 ads IT / 46 FR lanzados en <3 días, serie «X Illustré»; re-medir en 7 días.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 Mapas visuales ilustrados (producto no legible por API) — Mapas Visuais & ilustrados BR · `mapas-visuais-br` · 2026-11-26 · sesión BR
+- **Qué es:** mapas visuales/ilustrados en formato infoproducto (por nombre de página); los ads solo traen «⭐ 9.8/10» y «⭐ (4.8/5)», sin tema ni precio. Mismo molde que las fichas visuales de EU.
+- **Por qué es ganador:** BR cohorte 7+ de ≥29 verificados (de 133 activos, un solo page_id; 83 ads más viejos que la muestra → piso, probablemente >100) · tandas de creación a ~20, ~17, ~16, ~7 d y ads de hoy → operador vivo que reinvierte · no es marca personal.
+- **Qué hacer:** abrir la landing en la PC para saber qué tema vende y a qué precio; si es PDF de estudio, llevar el molde «mapas visuales» a FR/DE/IT (nodos fichas-visuales-pdf / mapas-mentales-idiomas de EU) · ojo: el volumen puede ser creativos duplicados de un solo SKU.
+- **Ads Library:** BR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1316538911539485
+- **Landing:** no verificada desde la nube (sin URL en el copy); snapshots más viejos: https://www.facebook.com/ads/library/?id=1160929876593438 · https://www.facebook.com/ads/library/?id=2137290487178391
+- Score 2/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~20 d), snapshot no verificado.
+
+**Señales del día BR (26-nov, C operadores):**
+- Explora Ciencias (637648923296874): sigue 22/38 en cohorte (ya tarjeta del 11-25) y 17 ads nuevos de hoy: operador vivo, sin cambio de SKU legible.
+- Escala Nova 2/8 (bajó de 13 ads) · Edital Organizado 1/6 · Ideias que Inspiram 1 ad (se apagó) · Saber na Prática 2/9 · O Eletricista Ilustrado 11 ads <2 d (re-medir ~12-03) · Mapinhas de Inglês desaparecida (0 con ALL).
 ### 🎯 Kit «Aula da Saudade» / kits PDF para profesores — Explora Ciencias BR · `material-docentes-pdf` (fuente BR → FR/DE) · 2026-11-25 tarde · sesión BR
 - **Qué es:** kits PDF para profesores (fin de año: «Asas das Memórias – Kit Aula da Saudade em PDF»); la mayoría de los ads no trae título, así que el resto del catálogo no se lee por API. Precio no visible.
 - **Por qué es ganador:** BR cohorte 7+ de 22/38 activos (conteo completo, un solo page_id) · ≥3 fechas distintas, ads de hoy → operador vivo · ad más viejo ≈ 30 d, tandas a ~9, ~14 y ~30 d · no es marca personal (nombre de página temático).
