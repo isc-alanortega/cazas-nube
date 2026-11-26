@@ -25,6 +25,20 @@ histórico.
 ## Pendientes de revisión
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 210 Visual Psychopathology Study Sheets — Zentra Digital US/GB · `adhd-planners` (hallado por huella printable; nodo nuevo `fichas-psicopatologia-pdf`) · 2026-11-25 · sesión EN (tarde)
+- **Qué es:** 210 fichas visuales de psicopatología (un trastorno por página, pares «parecidos» como esquizofrenia vs esquizoafectivo, TLP vs bipolar II) para estudiantes de psicología/enfermería; precio no visible.
+- **Por qué es ganador:** cohorte 7+ US 29/45 y GB 25/36 activos de un solo page_id (marca de tienda, no persona) · creada en 4 tandas (~14 d, ~12 d, ~10 d, ~5 d) más ads de hoy · un SKU con ~6 hooks por pareja de trastornos.
+- **Qué hacer:** modelar el molde «una ficha = un trastorno/par confuso» en PDF; destino US y GB (ya corre ahí) y llevarlo a DE/FR/IT/PT (mismo molde que `fichas-visuales-pdf`) · ángulo «One Disorder. One Page.».
+- **Ads Library:** US https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1105623172639006 · GB https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1105623172639006
+- **Landing:** no visible desde la nube: verificar en la PC (precio, PDF vs app, checkout) antes de decidir.
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~14 d), snapshot no verificado.
+
+**Señales del día EN (tarde, 2026-11-25):**
+- The EaseUp Planners (1194131877121706): «Your Whole Life In One Place / Never Going Back To Paper / 70% Off», US 50/50 con 7+ d (piso, est. 122 ads, clonados en el mismo minuto, solo 2 fechas de creación), GB 0; no se sabe si es planner digital o físico: verificar landing en la PC.
+- Red «ADHD Brain Dump Planner Pad» (Toselfwith*, Neattidyly*, Roarrave…, >25 páginas, <2 d): producto físico dropship, se ignora.
+- Hustle Ledger (1323924464148358) «ADHD Planner Kit $9.45» 3 ads de ~1 d; vireondigital.shop (1316218084918190) «ADHD Productivity Bundle» y Budget by Steph (186045074586148) «ADHD Digital Budget Planner», 1-2 ads <2 d: re-medir ~2026-12-02.
+
 ### 🎯 300 Excel Templates (95% OFF) — Excelbychris US · `plantillas-excel` · 2026-11-25 · sesión EN
 - **Qué es:** pack de 300 plantillas de Excel con 95 % de descuento (infoproducto digital); precio no visible.
 - **Por qué es ganador:** cohorte 7+ US 32/50 activos (piso, limit 50) de un solo page_id · 3 tandas de creación (~9.8 d, ~2.8 d, <1 d) · un solo creativo escalado · GB 0.
