@@ -115,6 +115,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-25 tarde | EU | B perforar (en curso) | material-docentes-pdf | — | en curso | — |
 | 2026-11-25 mañana | ES | C operadores (tabla y agenda vacías → huellas ES + conteo por page_id) | — | 4 huellas (plantillas excel, acceso inmediato PDF, apuntes enfermería, mapas mentales) + 17 page_ids | 1 tarjeta: Medical System Global AR cohorte 12/39 (atlas farmacología enfermería); resto señales | nodo nuevo superficial |
 | 2026-11-25 mañana | BR | A huella (mié = B perforar, pero la cola no tenía nodos BR → cola vacía para BR) | — | 6 huellas BR (guia prático pdf, planilha pronta, mapas mentais, ebook completo, material digital, acesso vitalício) + 11 page_ids | 0 tarjetas: ninguna página llega a cohorte 10 (todo <2 d; mejores: Escala Nova 13 ads/2 cohorte, Edital Organizado 9/2) | 4 nodos nuevos `virgen` |
 | 2026-11-25 mañana | EN | C operadores (tabla y agenda vacías → re-medición de señales 11-24 + huellas nuevas) | — | page_ids Excelbychris, Bev Jessup, Alisson Drusk, Portal da Pedagogia + `digital download pdf` GB | 1 tarjeta: Excelbychris US (32/50 cohorte 7+); resto señales | nodos nuevos `virgen`: crochet-patrones-pdf, adhd-planners; plantillas-excel con candidato |
