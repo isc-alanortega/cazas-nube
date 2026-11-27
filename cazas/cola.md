@@ -135,6 +135,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-26 tarde | ES | B perforar (todos los nodos ES tocados <7 d; se toma el virgen más viejo: contabilidad-kit-pais-es) | contabilidad-kit-pais-es | en curso | en curso | en curso |
 | 2026-11-26 tarde | EN | B perforar (virgen más viejo con mercado EN: plantillas-negocio-word-excel) | plantillas-negocio-word-excel | en curso | en curso | en curso |
 | 2026-11-26 tarde | BR | B perforar (virgen más viejo BR: fichas-ilustradas-oficios-br; ningún nodo BR sin tocar en 7 d, se toma el más viejo) | fichas-ilustradas-oficios-br | 7 keywords nativas (fichas ilustradas, guia visual pdf, pranchas ilustradas, manual ilustrado eletricista, atlas visual, fichas visuais pdf, cola de bolso ilustrada ALL) + 12 page_ids | 0 tarjetas: ola de ~25 páginas clon <3 d; única cohorte: Vitrine Essencial 15/25 (maçonaria, borde de «religion» → señal, no tarjeta) | superficial |
 | 2026-11-26 tarde | EU | B perforar (virgen más viejo libre: plantillas lo tocó EN 11-25 → patrones-crochet-pdf) | patrones-crochet-pdf | 5 consultas nativas (Häkelanleitung PDF, Häkelmuster Anleitung Download, schema uncinetto PDF, modèle crochet PDF, receita crochê PDF) + page_ids Stitchy, Crochet school, Leah Marlowe, Katie McDow, Immagina e Crea, Puntada Maestra | 2 tarjetas: Leah Marlowe DE ≥23/25; Stitchy 17/40 + Crochet school 10/23 DE (¿PDF o kit?); resto señales | superficial |
