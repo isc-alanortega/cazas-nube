@@ -19,3 +19,5 @@
 ## [2026-11-26] caza-auto | BR C operadores seguimiento-11-25 → 1 candidatos a bandeja
 
 ## [2026-11-26] caza-auto | ES A huella → 2 candidatos a bandeja
+
+## [2026-11-26] caza-auto | EU B perforar patrones-crochet-pdf (tarde) → 2 candidatos a bandeja

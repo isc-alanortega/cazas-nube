@@ -85,6 +85,30 @@ EN 2026-11-24 (tarde): nada que pase la vara; se barrió printable planner, inst
 - Planuppro (101376582798836) 10 ads y Charles Whitmore (1367971366405651) 7 ads: bundles digitales de <2 días, sin cohorte.
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 «3.500+ Strick- & Häkelanleitungen auf Deutsch» (biblioteca de patrones digitales PDF) — Leah Marlowe DE · `patrones-crochet-pdf` · 2026-11-26 tarde · sesión EU
+- **Qué es:** biblioteca digital de patrones de tricot y crochet en alemán (500+ → «3.500+» según el ad), «lesen am Tablet oder ausdrucken», con pack de Navidad, jerséis noruegos y cardigans; hay un embudo «Kommentiere STRICKEN» (comment-to-DM, probable Messenger/ManyChat). Precio no visible.
+- **Por qué es ganador:** cohorte 7+ ≥ 23 de 25 ads vistos en DE (piso; 46 resultados en la búsqueda), creados el 25-oct (~18 de golpe), 27-oct, 28-oct, 1-nov y 18-nov = ≥ 30 días vivos · variación de ángulos (orden vs «Zettelwirtschaft», «500+», «3.500+») = oferta escalada · sin cara en títulos (página con nombre propio). Nota: la consulta por `page_ids`+ACTIVE devolvió 0; la cohorte sale de la búsqueda por keyword ACTIVE.
+- **Qué hacer:** modelar tal cual (biblioteca de patrones en el idioma local con todo en un lugar) · destino DE (y probar FR/IT/PT, Katie McDow ya lo corre en IT/FR con «101 schemi + 4 bonus · 17 €») · ángulo «nunca más buscar patrones».
+- **Ads Library por país:** DE https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=DE&view_all_page_id=1156064160915083
+- **Landing:** no verificada desde la nube (sin URL en la API): verificar en la PC (precio, si es suscripción o pago único, y si hay cara). Snapshots: https://www.facebook.com/ads/library/?id=1143561258111541 · https://www.facebook.com/ads/library/?id=28705253399153093
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~31 d), snapshot no verificado.
+
+### 🎯 Patrones de crochet navideño — Stitchy DE 17/40 + Crochet school DE 10/23 · `patrones-crochet-pdf` · 2026-11-26 tarde · sesión EU
+- **Qué es:** crochet de Navidad (renos, ángeles, cestas, adornos «23 kleine Anhänger») vendido como proyecto a hacer uno mismo; copy en alemán formal. ¿Patrón PDF, curso o kit físico? No visible. Stitchy también corre un ad de costura. Precio no visible.
+- **Por qué es ganador:** Stitchy cohorte 7+ 17/40 en 3 fechas (7-nov y 11-nov + nuevos 21/22-nov) · Crochet school 10/23 en 3 fechas (27-oct, 21-nov, 25-nov) · mismo molde de copy/moneda USD: probablemente un mismo operador (cada página cuenta por separado, no se suman).
+- **Qué hacer:** si es PDF, modelar «pack de patrones de Navidad» · destino DE (probar FR/IT/PT, hoy 0) · ángulo «Nicht gekauft. Mit Liebe selbst gehäkelt.». Si es kit físico, descartar.
+- **Ads Library por país:** DE https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=DE&view_all_page_id=1147506285104017 · DE https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=DE&view_all_page_id=1102711656257139
+- **Landing:** no verificada desde la nube: verificar en la PC si es PDF antes de decidir. Snapshots: https://www.facebook.com/ads/library/?id=1072969082443388 · https://www.facebook.com/ads/library/?id=1067853179629884
+- Score 2/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (Stitchy ~16 d, Crochet school ~31 d).
+
+**Señales del día EU (tarde, 2026-11-26):**
+- Katie McDow (1239557552584396, copy nativo IT/FR, BRL): «101 schemi + 4 bonus · 17 €»; IT 7/39, FR 5/21; re-medir ~2026-12-03.
+- Immagina e Crea IT (1397719273420622): «Fioreria all'Uncinetto · 50 schemi», 2/21 con 7+ d; re-medir.
+- Puntada Maestra (1314855495043139): «Presepe/Crèche/Krippe 30 personajes + 3 regalos» en IT/FR/DE, 29 ads, todos <1,5 d; re-medir ~2026-12-03.
+- Handy Ebooks PT (1121067244423155): «Mais de 100 plantas em crochet», 5 ads de ~4 d.
+
 ### 🎯 «520 mappe mentali / cartes mentales de inglés A1→C2» (PDF + 5-6 bonus, 12,90 €) — Lingua Chiara IT + Camille Dubois FR · `mapas-mentales-idiomas` · 2026-11-26 · sesión EU
 - **Qué es:** pack PDF de 520 mapas mentales para aprender inglés de A1 a C2 («1 regla por mapa», «imprime, mira, habla») con 5-6 bonus; 12,90 € pago único (precio dicho en los títulos de los ads, «Black Friday hasta el 30/11»). Mismo producto en IT y FR (y variantes español/francés para italianos).
 - **Por qué es ganador:** Lingua Chiara IT cohorte 7+ ≥ 33 de 36 vistos (muestra de una búsqueda; 384 activos estimados) y DE ≥ 31/50 (107 activos), creados desde el 14-oct en ≥ 8 tandas · Camille Dubois FR ≥ 46/50 de 268 activos (tandas 11-nov, 20-nov y 25-nov) · páginas con nombre propio pero títulos de producto; red de clones ya vivos (<3 d) en FR/IT/PT: Céline Moreau, English Boussolev, BFS Academy «630 cartes», Mappe in inglese «+300 por 15 €», Mapa do Inglês PT, Atril Estudio. Cada página cuenta por separado; no se suman.
