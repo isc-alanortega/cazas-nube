@@ -222,6 +222,30 @@ EN 2026-11-24 (tarde): nada que pase la vara; se barrió printable planner, inst
 - Crearis Digital (1111358908733137): 173 ads IT / 46 FR lanzados en <3 días, serie «X Illustré»; re-medir en 7 días.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 +60 proyectos de juguetes y moldes de madera (PDF) — Joaquim Marceneiro BR · `planos-carpinteria-br` · 2026-11-27 · sesión BR
+- **Qué es:** planos/proyectos descargables de carpintería: «+60 projetos de brinquedões» y «+60 moldes de gabaritos» (por título del ad; formato PDF/archivo, precio no legible por API). El mecanismo es el plano (conocimiento), no el objeto.
+- **Por qué es ganador:** BR cohorte 7+ de 19 / 29 activos (un solo page_id; el ad más viejo creado hace ~38 d, 5 tandas de creación distintas, ≥1 ad de la última semana → operador vivo que rota dos SKUs) · la misma oferta corre en la página clon Jonas Silveira (2/4, no suma) · persona = nombre de pila + oficio, sin cara verificable (juzgar en el snapshot).
+- **Qué hacer:** modelar tal cual como pack de planos PDF «60 plans» (no es físico: se vende el PDF) → US/GB («woodworking plans PDF», wooden toys) y DE («Holzspielzeug Bauanleitung PDF») · ángulo: «proyectos listos con medidas» para aficionados que venden lo que construyen.
+- **Ads Library:** BR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1366831526505232
+- **Landing:** no verificada desde la nube (sin URL en el copy); snapshots: https://www.facebook.com/ads/library/?id=2333298420738730 (el más viejo) · https://www.facebook.com/ads/library/?id=3229611713894774
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~38 d), snapshot no verificado. Verificar en la PC: precio, si es marca personal y si el producto es PDF.
+
+### 🎯 Apostilas de concurso municipal por cargo y ciudad — Concurso Da Cidade BR · `apostilas-concurso-municipal-br` · 2026-11-27 · sesión BR
+- **Qué es:** apostilas/material por concurso de prefeitura y por cargo («Apostila para Técnico em Enfermagem / Porteiro / Professor / Servicos Gerais», «230+ questões da Vunesp para Jandira», «Birigui: num Pix só»); formato (PDF vs impreso) y precio no legibles; hay ads de «Fale com a gente no WhatsApp».
+- **Por qué es ganador:** BR cohorte 7+ de 20 / 50 visibles (63 activos; la cohorte es piso) · ads creados a ~13 d, ~12 d, ~9 d, ~8 d y 15 de hoy → reinvierte por ciudad/cargo, molde replicable · no es marca personal.
+- **Qué hacer:** abrir la landing en la PC y confirmar que es PDF (si es impreso, no sirve) · si es PDF, el molde «material por cargo + ciudad de la convocatoria» se lleva a IT («concorso comunale», por ente y perfil) y PT («concursos públicos câmara/município») · ojo: es un formato muy ligado al calendario de convocatorias.
+- **Ads Library:** BR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1421241471077490
+- **Landing:** no verificada desde la nube (copy sin URL); WhatsApp visible en el copy pero sin oferta ni precio · snapshots: https://www.facebook.com/ads/library/?id=1155283003613739 · https://www.facebook.com/ads/library/?id=1841435650393317
+- Score 2/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~13 d), snapshot no verificado.
+
+**Señales del día BR (27-nov, A huella):**
+- Certiva Concursos (1312360308622118): 212 activos, tanda de ~40 ads «Apostila Ijuí/RS R$27,90» creada hace 1 d y copias por ciudad; cohorte 0 → re-medir ~2026-12-04 (molde idéntico a Concurso Da Cidade).
+- Resumos Pedagógicos (1473273122534036): 29 activos «R$12,90» (resúmenes docentes), 0 en cohorte (más viejo 5,5 d); re-medir ~2026-12-02, nodo kits-profesores-br.
+- Leticia Dicas de Cursos (419751627884443): apostilas SEE-SP R$47 y «Guarda Municipal SC 3 por R$47», 11 ads, más viejo 6,5 d; sin cohorte.
+- Marcenaria do Mestre (1172727509267654): «+90 modelos de casinhas de pájaros, arquivo PDF», 4 ads de <4 d; Tiago Marceneiro (104127940967015) 3 en cohorte de ≥9: hermanos del nodo planos-carpinteria-br, re-medir ~2026-12-02.
+- Natal de Colorir (R$19,90, 5 ads <1 d), Baby in Box (guías R$14,90, 2 en cohorte de 6), Medvetdoamor (resúmenes vet, 1/5): sin cohorte.
 BR 2026-11-26 tarde: nada que pase la vara; se barrió fichas ilustradas, guia visual pdf, pranchas ilustradas, atlas visual, fichas visuais pdf, manual ilustrado eletricista (+12 page_ids). Señal: ola de ~25 páginas «atlas/fichas visuais» por oficio (Guias para Restaurantes, Ana Lurdes, Motricidade Orofacial, Mapa Desenhado, Guias Visuais Brasil con oferta WA) todas <3 d, re-medir ~2026-12-03; Vitrine Essencial (1362045786996470) 15/25 en cohorte con «mapas visuais» de maçonaria: borde del nicho excluido religion, no se trae, lo decide el dueño.
 ### 🎯 Mapas visuales ilustrados (producto no legible por API) — Mapas Visuais & ilustrados BR · `mapas-visuais-br` · 2026-11-26 · sesión BR
 - **Qué es:** mapas visuales/ilustrados en formato infoproducto (por nombre de página); los ads solo traen «⭐ 9.8/10» y «⭐ (4.8/5)», sin tema ni precio. Mismo molde que las fichas visuales de EU.

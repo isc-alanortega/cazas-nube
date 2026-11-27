@@ -30,3 +30,5 @@
 ## [2026-11-27] caza-auto | EN B perforar fichas-psicopatologia-pdf → 1 candidatos a bandeja
 
 ## [2026-11-27] caza-auto | EU C operadores re-medicion-senales → 2 candidatos a bandeja
+
+## [2026-11-27] caza-auto | BR A huella → 2 candidatos a bandeja
