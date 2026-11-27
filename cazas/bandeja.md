@@ -279,6 +279,33 @@ BR 2026-11-25: nada que pase la vara; se barrió guia prático pdf, planilha pro
 - Mapinhas de Inglês (1482528891605436): «+500 Mapinhas» 15 ads, todos <1 d; Edital Organizado (481942552171664): kits de concurso R$ 27-49, 9 ads, cohorte 2.
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
+
+### 🎯 «Cuaderno de Medicina»: 26 materias, +2.600 resúmenes, «del 1.er semestre al internado» — Cuaderno de Medicina - APP MX · `cuaderno-carrera-app-es` (perforado por carrera; hermano de la tarjeta Cuaderno de Derecho) · 2026-11-27 · sesión ES
+- **Qué es:** cuaderno de estudio de Medicina (26 materias, +2.600 resúmenes, fichas, casos) vendido como «app en vez de 40 PDFs sueltos» y también «imprime y anilla tu cuaderno»; precio no visible por API.
+- **Por qué es ganador:** cohorte 7+ ≥33/50 (piso; 178 ads activos en MX, los 128 no vistos son más viejos) de un solo page_id · creado en ≥8 tandas (~1, ~5, ~6, ~11, ~13, ~17, ~23 d), ~25 hooks («Toda la carrera, ya resumida», «¿Cuarenta PDFs sueltos?», «Academia tradicional vs. método») · página de marca, sin cara · mismo molde que Cuaderno de Derecho (19/50 MX): el molde escala a una 2.ª carrera.
+- **Qué hacer:** modelar un «cuaderno de carrera» por materia (resúmenes + tarjetas + casos), con el entregable imprimible/PDF como producto (la parte «app» es lo que no se copia) · fuente ES (MX) → destino IT, PT, FR, DE (probar US en español) · **riesgo:** formato app/suscripción vs PDF sin verificar; si es solo app, baja a señal.
+- **Ads Library por país:** MX https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1372929795909878
+- **Landing:** no visible desde la nube (sin URL en la API): verificar en la PC precio, checkout y si el entregable es app o PDF. Snapshots: https://www.facebook.com/ads/library/?id=3384777135028382 · https://www.facebook.com/ads/library/?id=1152513053890061
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~23 d), snapshot no verificado.
+
+### 🎯 «7 materias de Psicología resumidas + 7 bonos por $16.990» — Color Studio AR · `cuaderno-carrera-app-es` (hijo nuevo `resumenes-psicologia-es`) · 2026-11-27 · sesión ES
+- **Qué es:** pack de estudio de Psicología (7 materias: Freud, Neuro, Niñez…; «cada materia en una página», 305 tarjetas, un simulacro por materia, 7 bonos), «en tu celu»; precio piso $16.990 (peso, país por voseo = AR; moneda no confirmada).
+- **Por qué es ganador:** cohorte 7+ 27/27 activos (todos con 7+ días) de un solo page_id, solo AR · creado en ≥8 tandas (~7, ~11, ~16, ~19, ~25, ~30, ~33, ~38 d) con ~25 hooks de parcial/final («Llegá tranqui al parcial», «Freud, en cuadros y sin vueltas») · operador vivo (último creado hace ~7 d) · página de marca, sin cara.
+- **Qué hacer:** modelar «psicología en cuadros por materia» (resumen visual + tarjetas + simulacro + bonos) con precio ~US$10-17 · fuente AR → destino IT, PT, FR, DE (probar US en español) · ángulo «parcial/final: todo ordenado». **Riesgo:** sin ads nuevos hace ~7 d (puede estar en pausa de creativos); entregable PDF vs app sin verificar.
+- **Ads Library por país:** AR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1435703229615910
+- **Landing:** no visible desde la nube (sin URL en la API): verificar en la PC precio en pesos, checkout y formato. Snapshots: https://www.facebook.com/ads/library/?id=1782626376305205 · https://www.facebook.com/ads/library/?id=1544132804405853
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~37 d), snapshot no verificado.
+
+**Señales del día ES (mañana, 2026-11-27):**
+- Cuaderno de Derecho (1426557477213473): re-medido, 97 activos (antes 50 piso); los 8 más viejos del top-50 ya con 7+ d y 47 más viejos fuera del límite → cohorte mayor a la tarjeta del 11-26; sin cambio de oferta.
+- Página a Página (1511541105373298): 51 activos, cohorte 6/51 (más viejo ~11 d; oposiciones: Xunta, Generalitat, Ayuntamientos, bombero, TAI, patrón de yate; «el libro, hojeado» sugiere libro impreso: verificar); cruza 10 en ~3-5 d con la tanda de ~7 d; re-medir ~2026-12-01.
+- Lena Braun (1369177336283007): 157 activos, los 50 más nuevos <2 d («250 Mapas Visuales de Ingeniería Mecánica», «330 mapas para elegir y ubicar plantas», ⭐4.9/5); cohorte no medible por el límite de 50; nombre de persona, sin cara en el copy: re-medir ~2026-12-02.
+- Aprende con Guias Profesionales (1380966491766673) MX: 652 activos, todos <1 d (fichas de 44-54 sobre EDAN, divorcio Colombia, contrataciones públicas, E.030…); ola de fichas visuales ES, cohorte 0; re-medir ~2026-12-03.
+- Medicina en Papel (1367978406410170): +300 apuntes de medicina ilustrados, 4 ads, cohorte 2.
+- Contabilidad Fácil Colombia (1485870234602161): 4 ads, cohorte 0; sin cambio.
+
 ### 🎯 «Kit Contable Definitivo – Colección Completa» / «Combo Contable» (PDF + Excel inferido) — Formación Práctica AR · `contabilidad-kit-pais-es` · 2026-11-26 tarde · sesión ES
 - **Qué es:** colección de kits contables para estudiantes y profes de contabilidad e impuestos («Kit Contable Definitivo», «Lo que trae el Combo Contable»); formato PDF/Excel inferido por el nombre del producto, precio no visible por API.
 - **Por qué es ganador:** cohorte 7+ de ≥12 activos de un solo page_id (piso; 152 activos, muestra de 50 sin los más viejos) · ≥4 tandas de creación (~8 d, ~7,9 d, ~6 d, hoy) y ≈25 ads nuevos de «Combo Contable» en las últimas 36 h: operador vivo que escala · página de marca, sin cara · mismo molde «kit contable» que Ebookify GT/MX (dos operadores independientes, país distinto).
