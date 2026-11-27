@@ -25,6 +25,22 @@ histórico.
 ## Pendientes de revisión
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 Guías visuales «Professional Edition · 6 Visual Volumes + 5 Bonuses» por oficio — Central Pack US/GB · `fichas-psicopatologia-pdf` (hallado perforando; hijo nuevo `guias-visuales-oficios-multi-sku`) · 2026-11-27 · sesión EN
+- **Qué es:** fábrica de guías visuales por oficio/tema técnico (gelato, aceite de oliva, lubricación industrial, iluminación de escenario, afinación de piano, vela, válvulas, VFD, seguridad de máquinas, subsea…): «6 Volumes + 5 Bonuses», formato digital inferido; precio no visible.
+- **Por qué es ganador:** cohorte 7+ US 11/50 activos de un solo page_id (piso: 95 en total; Gelato 4, Olive Oil 3, Lubrication 3, Stage Lighting 1; más viejo ≥8.9 d) · 4 SKUs distintos escalando a la vez · operador vivo (SKUs nuevos hace ~1.5 d) · sin cara ni persona · **ojo:** ningún SKU suelto llega a 10, la cohorte es del molde.
+- **Qué hacer:** modelar el molde «pack de 6 volúmenes visuales + 5 bonos por oficio» y elegir 1-2 oficios de bajo ticket (no elegir los industriales B2B) · destino US y GB (ya corre ahí) y luego DE/FR/IT/PT · ángulo «Understand the machine. Fix it faster.».
+- **Ads Library:** US https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1178523422005192 · GB https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1178523422005192
+- **Landing:** `https://piano.shopsmartdigital.com` (WebFetch: solo el título «Piano Technology & Piano Tuning — Professional Edition»; sin precio ni formato). Verificar en la PC (precio, PDF vs video, checkout).
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~8.9 d), snapshot no verificado.
+
+**Señales del día EN (2026-11-27, `fichas-psicopatologia-pdf`):**
+- Zentra Digital (1105623172639006): ya tiene tarjeta del 11-25; re-medido US ≥12 de 69 (piso; los ads nuevos son de ~1.5 d). Clones del molde hoy: Psyacademy (944317715424068, 10 ads <1 d), y «240 Visual Nursing Study Sheets» en Nexora, Alma Consciente y Digital Box (1 ad c/u); re-medir ~2026-12-04.
+- Smart Digital (1383014634885117, misma red `shopsmartdigital.com` que Central Pack): 92 ads, todos ≤3 d, cohorte 0; re-medir ~2026-12-02.
+- The Nursing Cheat Sheets (1506295449223124): 13 ads, el más viejo ~5.9 d, cohorte 0; re-medir ~2026-12-02.
+- Labdigital (1332998043219880): fábrica multi-título «Atlas/Blueprint™» con 339 ads, la cohorte 7+ visible es ≤3 (Anesthesia Study System); mezcla religión (ignorar); no pasa.
+- Healing with Carol: regalo gratis de 200+ worksheets de terapia (lead magnet), no es oferta.
+
 EN 2026-11-26 (tarde): nada que pase la vara; se barrió `plantillas-negocio-word-excel` (excel dashboard template, invoice template bundle, business plan template, HR templates Word, SOP templates, bookkeeping spreadsheet, contract templates freelancers, excel templates bundle small business + 12 page_ids).
 **Señales del día EN (tarde, 2026-11-26, `plantillas-negocio-word-excel`):**
 - Dragon Fire Method (163589696835008): es la marca de un libro de autoayuda; la cohorte «23+» del 11-25 era de ads del libro. Los ads de plantillas (300 HR/finance/SOP/IT, NIST, «hecho con Claude») son de 5-10 d y la cohorte de plantillas 7+ es ≤3 en US y GB (de 50 de piso). No pasa; embudo y precio no verificados.
