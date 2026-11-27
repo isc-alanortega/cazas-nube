@@ -207,6 +207,20 @@ BR 2026-11-25: nada que pase la vara; se barrió guia prático pdf, planilha pro
 - Mapinhas de Inglês (1482528891605436): «+500 Mapinhas» 15 ads, todos <1 d; Edital Organizado (481942552171664): kits de concurso R$ 27-49, 9 ads, cohorte 2.
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 «Kit Contable Definitivo – Colección Completa» / «Combo Contable» (PDF + Excel inferido) — Formación Práctica AR · `contabilidad-kit-pais-es` · 2026-11-26 tarde · sesión ES
+- **Qué es:** colección de kits contables para estudiantes y profes de contabilidad e impuestos («Kit Contable Definitivo», «Lo que trae el Combo Contable»); formato PDF/Excel inferido por el nombre del producto, precio no visible por API.
+- **Por qué es ganador:** cohorte 7+ de ≥12 activos de un solo page_id (piso; 152 activos, muestra de 50 sin los más viejos) · ≥4 tandas de creación (~8 d, ~7,9 d, ~6 d, hoy) y ≈25 ads nuevos de «Combo Contable» en las últimas 36 h: operador vivo que escala · página de marca, sin cara · mismo molde «kit contable» que Ebookify GT/MX (dos operadores independientes, país distinto).
+- **Qué hacer:** modelar el molde «kit/combo contable de casos + plantillas» con el sistema fiscal de cada destino · fuente AR (+GT/MX por Ebookify) → destino DE, FR, IT, PT · ángulo «colección completa / combo» como oferta única.
+- **Ads Library por país:** AR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1314377845092137 (MX, CO, PE: 0 ads)
+- **Landing:** no visible desde la nube (sin URL en la API); verificar en la PC precio, checkout y que el entregable sea digital. Snapshots: https://www.facebook.com/ads/library/?id=1863638174764908 · https://www.facebook.com/ads/library/?id=1162639796167148
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~8 d), snapshot no verificado.
+
+**Señales del día ES (tarde, 2026-11-26):**
+- Magnus - Recursos profesionales (1447686328422547): cohorte 7+ 14/30, pero solo título «DESCÁRGALO AQUÍ», oferta no identificable por API (¿lead magnet?); abrir snapshot en la PC.
+- Contabilidad Fácil Colombia (1485870234602161): 11 ads «DÉSCARAGALO AQUI», más viejo ~3,8 d, cohorte 0; re-medir ~2026-12-03.
+- Ebookify (530640753468877): 23/38 en cohorte 7+, sin cambio (tarjeta del 11-25 vigente).
+
 ### 🎯 Planner imprimible «para vaciar la cabeza» + 5 bonos — Planner Hoy Solo 3 MX/ES · `planner-vaciar-cabeza-es` (nodo nuevo; hallado por huella `planner imprimible PDF`) · 2026-11-26 · sesión ES
 - **Qué es:** planner de una hoja («la lista eterna de tu cabeza cabe en una hoja», «vacía la cabeza y elige tus 3 de hoy») con 5 bonos de regalo; entregable PDF imprimible inferido, precio no visible por API.
 - **Por qué es ganador:** cohorte 7+ de 43/50 activos (piso; est. 54) con los 9 países y 45/50 en MX (piso; est. 51), de un solo page_id · ≥12 tandas de creación, la más vieja ~36 d, y una de hoy: operador vivo que reinvierte · mismo creativo reciclado con ~8 hooks · página de marca, sin cara.
