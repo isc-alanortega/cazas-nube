@@ -28,3 +28,5 @@
 ## [2026-11-26] caza-auto | EN B perforar plantillas-negocio-word-excel (tarde) → 0 candidatos a bandeja
 
 ## [2026-11-27] caza-auto | EN B perforar fichas-psicopatologia-pdf → 1 candidatos a bandeja
+
+## [2026-11-27] caza-auto | EU C operadores re-medicion-senales → 2 candidatos a bandeja

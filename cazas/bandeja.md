@@ -107,6 +107,32 @@ EN 2026-11-24 (tarde): nada que pase la vara; se barrió printable planner, inst
 - Planuppro (101376582798836) 10 ads y Charles Whitmore (1367971366405651) 7 ads: bundles digitales de <2 días, sin cohorte.
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 Dossier/carnet «au cas où» (que tu familia sepa qué hacer) — Atelio Guides FR · `dossier-familia-fr` · 2026-11-27 · sesión EU
+- **Qué es:** guía/carnet de organización de papeles y pasos «por si pasa algo» para la familia («Pour que votre famille sache quoi faire», «Que met-on dans un dossier « au cas où » ?», «Le compte joint ne suffira pas»). Precio y formato no visibles; ¿PDF imprimible o carnet físico? Sin confirmar. La misma página acaba de sumar un segundo producto, «+400 patrons pour chiens et chats» (9 ads, 11-25).
+- **Por qué es ganador:** cohorte 7+ 23 / 42 activos de un solo page_id en FR (todos listados, no es piso) · 3 fechas de creación (16-nov ×18, 19-nov ×5, 25-nov ×19) = operador vivo y escalando · títulos de producto, sin cara · fábrica con un SKU nuevo (señal de operador a seguir). Solo corre en FR (DE/IT/PT: 0).
+- **Qué hacer:** si es digital, modelar «dossier familiar al por si acaso» (checklist + plantillas de documentos) · destino FR primero, luego DE/IT/PT (hoy 0 ahí) · ángulo «ce n'est pas vous, c'est le carnet». Si es carnet físico, descartar el formato y rescatar solo el ángulo.
+- **Ads Library por país:** FR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1363006713573237
+- **Landing:** no verificada desde la nube (sin URL en la API): verificar en la PC (si es PDF, precio, checkout). Snapshots: https://www.facebook.com/ads/library/?id=1639133664658929 · https://www.facebook.com/ads/library/?id=1708020207622303
+- Score 2/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo 11 d), snapshot no verificado.
+
+### 🎯 «Parlala. Non solo studiarla.» (probables mapas mentales de idioma) — Mappe di Fluidità IT · `mapas-mentales-idiomas` · 2026-11-27 · sesión EU
+- **Qué es:** oferta de idioma con copy «Háblala, no solo la estudies» en una página llamada «Mappe di Fluidità»; mismo molde que Lingua Chiara (tarjeta 11-26). La API no devuelve cuerpo ni precio: **producto no confirmado** (¿mapas PDF o método de habla?).
+- **Por qué es ganador:** IT cohorte 7+ 50 / 66 activos (piso: los 50 vistos son todos de 7+ d) · 5 fechas de creación (13-oct, 21-oct, 29-oct, 1-nov, 6-nov) = ads vivos hasta 45 días · sin cara en títulos. Ojo: última tanda del 6-nov (21 días sin ads nuevos).
+- **Qué hacer:** abrir la landing en la PC para identificar el producto y el precio antes de decidir · si es mapas PDF, encaja con el nodo mapas-mentales-idiomas (IT → DE/FR/PT) · ángulo «habla, no memorices».
+- **Ads Library por país:** IT https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=1159345370604714
+- **Landing:** no verificada desde la nube; snapshots: https://www.facebook.com/ads/library/?id=3316127775256861 · https://www.facebook.com/ads/library/?id=2206852673559452
+- Score 2/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo 45 d), snapshot no verificado.
+
+**Señales del día EU (mañana, 2026-11-27):**
+- Céline Moreau FR (1367953336410558): cohorte 8/34 (+300 cartes mentales); las tandas del 20/21-nov cruzan 7 d el ~11-28 → pasa 10; re-medir 2026-11-29.
+- Mapa do Inglês PT (1170077372866827): 87 activos, cohorte 2/50 (tandas del 11-24/25); re-medir ~2026-12-01.
+- Katie McDow IT/FR (1239557552584396): 60 activos, cohorte 3/50; ~40 ads del 11-22 cruzan 7 d el 11-29; re-medir 2026-11-30.
+- Emito DE (557352500802762): sigue 50/54 (piso), sin tanda nueva en 14 d; tarjeta del 11-25 vigente.
+- Atril Estudio (1282575998279080): 175 activos, cohorte 3/50, solo prueba social «4,9/5» (oferta no legible).
+- Impulso Digital (1131540133375582): 192 activos PT, cohorte 0, todo <4 d; la ola salta a NL/SV/RO/LT/DE («Körperkarte»).
+- Puntada Maestra (14 ads <3 d), Mappe in inglese IT (6 ads, 11-24), Sara Brooks PT (17 ads, ≤5 d): cohorte 0.
 ### 🎯 «3.500+ Strick- & Häkelanleitungen auf Deutsch» (biblioteca de patrones digitales PDF) — Leah Marlowe DE · `patrones-crochet-pdf` · 2026-11-26 tarde · sesión EU
 - **Qué es:** biblioteca digital de patrones de tricot y crochet en alemán (500+ → «3.500+» según el ad), «lesen am Tablet oder ausdrucken», con pack de Navidad, jerséis noruegos y cardigans; hay un embudo «Kommentiere STRICKEN» (comment-to-DM, probable Messenger/ManyChat). Precio no visible.
 - **Por qué es ganador:** cohorte 7+ ≥ 23 de 25 ads vistos en DE (piso; 46 resultados en la búsqueda), creados el 25-oct (~18 de golpe), 27-oct, 28-oct, 1-nov y 18-nov = ≥ 30 días vivos · variación de ángulos (orden vs «Zettelwirtschaft», «500+», «3.500+») = oferta escalada · sin cara en títulos (página con nombre propio). Nota: la consulta por `page_ids`+ACTIVE devolvió 0; la cohorte sale de la búsqueda por keyword ACTIVE.
