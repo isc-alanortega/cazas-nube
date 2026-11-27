@@ -25,3 +25,4 @@
 ## [2026-11-26] caza-auto | BR B perforar fichas-ilustradas-oficios-br (tarde) → 0 candidatos a bandeja
 
 ## [2026-11-26] caza-auto | ES B perforar contabilidad-kit-pais-es (tarde) → 1 candidatos a bandeja
+## [2026-11-26] caza-auto | EN B perforar plantillas-negocio-word-excel (tarde) → 0 candidatos a bandeja

@@ -25,6 +25,12 @@ histórico.
 ## Pendientes de revisión
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
+EN 2026-11-26 (tarde): nada que pase la vara; se barrió `plantillas-negocio-word-excel` (excel dashboard template, invoice template bundle, business plan template, HR templates Word, SOP templates, bookkeeping spreadsheet, contract templates freelancers, excel templates bundle small business + 12 page_ids).
+**Señales del día EN (tarde, 2026-11-26, `plantillas-negocio-word-excel`):**
+- Dragon Fire Method (163589696835008): es la marca de un libro de autoayuda; la cohorte «23+» del 11-25 era de ads del libro. Los ads de plantillas (300 HR/finance/SOP/IT, NIST, «hecho con Claude») son de 5-10 d y la cohorte de plantillas 7+ es ≤3 en US y GB (de 50 de piso). No pasa; embudo y precio no verificados.
+- Session Ready (1226783993855408): kits de notas clínicas ($9.99 por kit, «All 5 kits for $27» para PTA/OT/ABA/FNP/psiquiatría/quiropráctica), US 50+/91 activos, todos de <2 d y en español también: ola nueva, cohorte 0. Re-medir ~2026-12-03.
+- MAX SHEETS (180395578482259) 8/29 y Contractor Sheet 0/8 (8 ads de 1 d, kit de 8 hojas para contratistas), Sunday Budget 0/12 (6 d, Google Sheets), Starr Consulting «3 herramientas $27» 0/8 (1 d), The Contract Shop 6 de ≥9 d (plantillas legales «attorney-drafted»): ninguno llega a 10; re-medir MAX SHEETS, Sunday Budget y Session Ready ~2026-12-03.
+- Julie Harper Bookkeeping (curso + marca personal) y Med Ops Manuals ($2.499) fuera de vara.
 ### 🎯 Planes anuales «ya planeados» para docentes de materias especiales (coro, teatro, idiomas) — The Teaching Desk US · `planes-anuales-docentes-en` (hijo de `material-docentes-pdf`; hallado por huella `lesson plans pdf`) · 2026-11-26 · sesión EN
 - **Qué es:** planes de año completo clase por clase para docentes («Your whole Spanish year, ready to teach», «Every rehearsal. Already planned.», «36 weeks of sight-singing, in order», sub plans). Formato digital inferido; precio no visible.
 - **Por qué es ganador:** cohorte 7+ US 12/32 activos de un solo page_id (creados hace ~28, ~32 y ~37 d) · tanda nueva hace 0.6-1.4 d: operador vivo · página de marca temática, sin cara · GB 0 hoy (hueco).
