@@ -174,6 +174,7 @@ EN 2026-11-24 (tarde): nada que pase la vara; se barrió printable planner, inst
 - Crearis Digital (1111358908733137): 173 ads IT / 46 FR lanzados en <3 días, serie «X Illustré»; re-medir en 7 días.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
+BR 2026-11-26 tarde: nada que pase la vara; se barrió fichas ilustradas, guia visual pdf, pranchas ilustradas, atlas visual, fichas visuais pdf, manual ilustrado eletricista (+12 page_ids). Señal: ola de ~25 páginas «atlas/fichas visuais» por oficio (Guias para Restaurantes, Ana Lurdes, Motricidade Orofacial, Mapa Desenhado, Guias Visuais Brasil con oferta WA) todas <3 d, re-medir ~2026-12-03; Vitrine Essencial (1362045786996470) 15/25 en cohorte con «mapas visuais» de maçonaria: borde del nicho excluido religion, no se trae, lo decide el dueño.
 ### 🎯 Mapas visuales ilustrados (producto no legible por API) — Mapas Visuais & ilustrados BR · `mapas-visuais-br` · 2026-11-26 · sesión BR
 - **Qué es:** mapas visuales/ilustrados en formato infoproducto (por nombre de página); los ads solo traen «⭐ 9.8/10» y «⭐ (4.8/5)», sin tema ni precio. Mismo molde que las fichas visuales de EU.
 - **Por qué es ganador:** BR cohorte 7+ de ≥29 verificados (de 133 activos, un solo page_id; 83 ads más viejos que la muestra → piso, probablemente >100) · tandas de creación a ~20, ~17, ~16, ~7 d y ads de hoy → operador vivo que reinvierte · no es marca personal.

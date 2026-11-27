@@ -21,3 +21,5 @@
 ## [2026-11-26] caza-auto | ES A huella → 2 candidatos a bandeja
 
 ## [2026-11-26] caza-auto | EU B perforar patrones-crochet-pdf (tarde) → 2 candidatos a bandeja
+
+## [2026-11-26] caza-auto | BR B perforar fichas-ilustradas-oficios-br (tarde) → 0 candidatos a bandeja
