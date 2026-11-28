@@ -320,6 +320,15 @@ BR 2026-11-25: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Agenda/planner «hecha para tu cerebro» (TDAH, sin fechas, «en tu teléfono o impresa») — Mente Inquieta ES · `planner-vaciar-cabeza-es` (perforado; hijo nuevo `agenda-tdah-sin-fechas-es`) · 2026-11-27 (tarde) · sesión ES
+- **Qué es:** agenda/planner para cabezas con TDAH, sin fechas («la retomas hoy, sin culpa», «llénala a medias, sigue funcionando»), usable «en tu teléfono o impresa»; «+170 personas les encanta el planner»; entregable PDF/digital inferido, precio no visible por API.
+- **Por qué es ganador:** cohorte 7+ de 29/42 activos en ES (33/46 con LATAM; total < 50, no es piso) de un solo page_id · ≥6 tandas de creación (~12, ~11, ~10, ~9, ~6, ~5 y ~3 d), la más vieja ~12 d, y lote nuevo hace 3 d: operador vivo que reinvierte · ~25 hooks sobre un mismo producto · página de marca, sin cara visible.
+- **Qué hacer:** modelar un planner «sin fechas» para cerebros dispersos (una página por día, energía en vez de horario, versión móvil + imprimible) · fuente ES (España, copy tuteo) → destino US y GB (en inglés; ahí la red `ADHD Brain Dump Planner Pad` es física y clon, un digital limpio es hueco), luego DE, FR, IT, PT · ángulo «sin culpa, retómalo hoy».
+- **Ads Library por país:** ES https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1335956396276935
+- **Landing:** no visible desde la nube (sin URL en la API): verificar en la PC precio, checkout y que el entregable sea PDF/app y no producto físico. Snapshots: https://www.facebook.com/ads/library/?id=1458126116454227 · https://www.facebook.com/ads/library/?id=1703511461108991
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~12 d), snapshot no verificado.
+
 ### 🎯 «Cuaderno de Medicina»: 26 materias, +2.600 resúmenes, «del 1.er semestre al internado» — Cuaderno de Medicina - APP MX · `cuaderno-carrera-app-es` (perforado por carrera; hermano de la tarjeta Cuaderno de Derecho) · 2026-11-27 · sesión ES
 - **Qué es:** cuaderno de estudio de Medicina (26 materias, +2.600 resúmenes, fichas, casos) vendido como «app en vez de 40 PDFs sueltos» y también «imprime y anilla tu cuaderno»; precio no visible por API.
 - **Por qué es ganador:** cohorte 7+ ≥33/50 (piso; 178 ads activos en MX, los 128 no vistos son más viejos) de un solo page_id · creado en ≥8 tandas (~1, ~5, ~6, ~11, ~13, ~17, ~23 d), ~25 hooks («Toda la carrera, ya resumida», «¿Cuarenta PDFs sueltos?», «Academia tradicional vs. método») · página de marca, sin cara · mismo molde que Cuaderno de Derecho (19/50 MX): el molde escala a una 2.ª carrera.
@@ -337,6 +346,12 @@ BR 2026-11-25: nada que pase la vara; se barrió guia prático pdf, planilha pro
 - **Landing:** no visible desde la nube (sin URL en la API): verificar en la PC precio en pesos, checkout y formato. Snapshots: https://www.facebook.com/ads/library/?id=1782626376305205 · https://www.facebook.com/ads/library/?id=1544132804405853
 - Score 3/4 (escalera n/e) · Decisión: —
 - Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~37 d), snapshot no verificado.
+
+**Señales del día ES (tarde, 2026-11-27):**
+- Planner Hoy Solo 3 (1280820831792286) MX: re-medido ≥44/50 piso (54 activos), lote nuevo hoy; ya tiene tarjeta (11-26).
+- Casa Tranquila (1333650446508238): planner de hogar con el mismo molde de copy que Mente Inquieta, 4/4, sin llegar a 10; re-medir ~2026-12-04.
+- El Manual Del Orden (1368778579659862) AR: «Planner 2027 · Edición Argentina», 3 ads <1 d; Guiasfera: «Planner 2027 para TDAH · US$ 7,90», 2 ads <1 d (precio piso); re-medir ~2026-12-04.
+- Tienda Emefé (808426942581813) AR: PDF imprimibles + curso de encuadernación, mezcla servicio/físico; no modelable.
 
 **Señales del día ES (mañana, 2026-11-27):**
 - Cuaderno de Derecho (1426557477213473): re-medido, 97 activos (antes 50 piso); los 8 más viejos del top-50 ya con 7+ d y 47 más viejos fuera del límite → cohorte mayor a la tarjeta del 11-26; sin cambio de oferta.
