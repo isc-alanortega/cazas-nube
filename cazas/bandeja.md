@@ -279,6 +279,31 @@ EU 2026-11-27 tarde (B haccp-restauracion): nada que pase la vara; se barrió HA
 - Crearis Digital (1111358908733137): 173 ads IT / 46 FR lanzados en <3 días, serie «X Illustré»; re-medir en 7 días.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 Mapas visuales de concurso de Guarda Municipal (GCM) — Mapas da Guarda BR · `mapas-visuales-concursos-br` · 2026-11-28 · sesión BR
+- **Qué es:** «416 mapas do concurso GCM Santana» / «Edital da Guarda de Santana em mapas» / «Só o que cai na prova da GCM Campinas»: pack de mapas mentales del edital de un concurso municipal concreto; formato (PDF) y precio no legibles por API.
+- **Por qué es ganador:** BR cohorte 7+ de 33 / 40 activos (un solo page_id; 40 totales, no es piso) · 9 fechas de creación distintas · el más viejo ~31 d · ads nuevos en los últimos 30 d → operador vivo · nombre de página genérico, sin marca personal visible · 2 títulos concentran 37 de 40 ads.
+- **Qué hacer:** modelar el molde «N mapas del edital de <concurso concreto>» (producto por convocatoria, se rota al próximo edital) → destino: el molde «mapas de estudio por examen oficial» a FR/IT/DE (p. ej. concours de la fonction publique, concorsi comunali, Beamtenprüfung) · verificar en la PC si es PDF y a qué precio.
+- **Ads Library:** BR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1281225235079752
+- **Landing:** no verificada desde la nube (sin URL en el copy) · snapshots: https://www.facebook.com/ads/library/?id=1585582620001323 · https://www.facebook.com/ads/library/?id=2041332629878112
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~31 d), snapshot no verificado.
+
+### 🎯 «Atlas Visual da Prova» y kit por email/WhatsApp — Mapa Concursos BR · `mapas-visuales-concursos-br` · 2026-11-28 · sesión BR
+- **Qué es:** ads con títulos genéricos («Receba Agora Mesmo.», «Clique e Receba!!!») y «Atlas Visual da Prova do Detran»: mapas/atlas visuales para concursos; oferta, formato y precio no legibles por API (14 de los 50 ads reportan moneda USD).
+- **Por qué es ganador:** BR cohorte 7+ de ≥11 / 50 activos (piso: 50 es el tope de la API, estimado 79) · 8 fechas de creación · el más viejo ~18 d · ads nuevos en los últimos 30 d · un solo page_id.
+- **Qué hacer:** abrir un snapshot en la PC y confirmar qué entrega (PDF/atlas vs. grupo gratuito/lead magnet) antes de decidir; si es PDF, mismo molde que Mapas da Guarda → FR/IT/DE.
+- **Ads Library:** BR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=113788658419021
+- **Landing:** no verificada desde la nube · snapshots: https://www.facebook.com/ads/library/?id=1897992847907228 · https://www.facebook.com/ads/library/?id=3078506208986556
+- Score 2/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~18 d), snapshot no verificado.
+
+**Señales del día BR (28-nov mañana, B mapas-visuales-concursos-br):**
+- Resumos Animados (1454128997777436) BR 5/21: «139 Mapas de Revisão da Câmara de Petrolina…», 8 fechas, ~22 d; sin vara, re-medir ~2026-12-05.
+- Marcelomapas (100945228762390) BR 0/50 piso (est. 109): ola de <2 d (TJSP Escrevente, PRF); re-medir ~2026-12-05.
+- Mapa do Aprovado (1188080441064364) BR 0/50 piso: 50 ads con un solo título «Por Apenas R$10,00», <4 d; re-medir ~2026-12-05.
+- Mapas Visuais Brasil (1208273665712546) BR 0/10; Rota da aprovação (1471161892750754) 0/22; Aprovare 0/6; Juan Torres 0/4; MenteLab Digital 0/5 (todos <5 d).
+- Central de Concurseiro (784955301359423) BR 10/50 piso pero títulos de edital/«CAER» e informativos: parece sitio de noticias de concursos, no producto; no es tarjeta.
+
 ### 🎯 Calculadoras y planillas fiscales de la Reforma Tributaria — VGL Treinamento Digital BR · `planillas-listas-br` · 2026-11-27 (tarde) · sesión BR
 - **Qué es:** calculadoras/planillas por tema fiscal: «Calculadora automática Split Payment», «Planilha IBS e CBS», «Calculadora de Honorários», «Aluguel na Reforma Tributária», «Descubra o CST e o cClassTrib por NCM», «Calculadora IBS e CBS no Agro»; formato (Excel vs web) y precio no legibles por API.
 - **Por qué es ganador:** BR cohorte 7+ de ≥25 / 132 activos (un solo page_id; 50 visibles por consulta, la cohorte es piso) · el más viejo ~36 d, ≥8 fechas de creación, ad de hace ~2 d → rota un SKU por tema de moda cada ~4-10 d · no es marca personal.

@@ -42,3 +42,4 @@
 ## [2026-11-28] caza-auto | EN C agenda plantillas-negocio-word-excel → 1 candidato a bandeja
 
 ## [2026-11-28] caza-auto | EU A huella → 2 candidatos a bandeja
+## [2026-11-28] caza-auto | BR B mapas-visuales-concursos-br → 2 candidatos a bandeja
