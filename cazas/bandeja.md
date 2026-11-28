@@ -107,6 +107,15 @@ EN 2026-11-24 (tarde): nada que pase la vara; se barrió printable planner, inst
 - Planuppro (101376582798836) 10 ads y Charles Whitmore (1367971366405651) 7 ads: bundles digitales de <2 días, sin cohorte.
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
+EU 2026-11-27 tarde (B haccp-restauracion): nada que pase la vara; se barrió HACCP guia/manual HACCP restaurante (PT), HACCP modèles/plan de maîtrise sanitaire/PMS HACCP Word (FR), HACCP Vorlagen/Hygienekonzept/Schulung (DE), HACCP manuale/registro HACCP (IT).
+
+**Señales del día EU (tarde, 2026-11-27):**
+- Clear Guides PT (1311440805395222): «Dossier HACCP para Restaurante» Word+PDF, 16 procedimientos, 24 registos, 17,90 €; cohorte 0/27 activos (HACCP activo más viejo ≈4,7 d; los de 7,6-9 d ya apagados); fábrica multi-SKU (780 Prompts advogados, bolos); re-medir ~2026-12-01.
+- Kapidea IT (1520707171119936): fichas «a disegni» (HACCP, OSS, ECG, contabilità, elettricista), 36 ads, 30 del 11-24 → cohorte 0; mismo molde que Studio Facile; re-medir ~2026-12-02.
+- FR HACCP (Ressources Prêtes «HACCP Prêt · votre PMS», Andrei Kowalski «HACCP au mur 19,60 €» 80 ads): ACTIVE 0, ads de 7-18 d ya apagados; el molde «dossier PMS» no sostuvo en FR.
+- It Formazione IT: ≥46/50 de cohorte (corso HACCP online 35 €, manuale su misura 199,90 €) pero academia acreditada con attestato: no modelable, sin tarjeta.
+- George Windsor (1059809390547396): 865 ads de ocupaciones en IT/DE/FR/PT/SV/NL, todos del 11-25 (cohorte 0), oferta no legible.
+
 ### 🎯 Dossier/carnet «au cas où» (que tu familia sepa qué hacer) — Atelio Guides FR · `dossier-familia-fr` · 2026-11-27 · sesión EU
 - **Qué es:** guía/carnet de organización de papeles y pasos «por si pasa algo» para la familia («Pour que votre famille sache quoi faire», «Que met-on dans un dossier « au cas où » ?», «Le compte joint ne suffira pas»). Precio y formato no visibles; ¿PDF imprimible o carnet físico? Sin confirmar. La misma página acaba de sumar un segundo producto, «+400 patrons pour chiens et chats» (9 ads, 11-25).
 - **Por qué es ganador:** cohorte 7+ 23 / 42 activos de un solo page_id en FR (todos listados, no es piso) · 3 fechas de creación (16-nov ×18, 19-nov ×5, 25-nov ×19) = operador vivo y escalando · títulos de producto, sin cara · fábrica con un SKU nuevo (señal de operador a seguir). Solo corre en FR (DE/IT/PT: 0).
