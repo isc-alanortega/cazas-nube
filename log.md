@@ -38,3 +38,5 @@
 
 ## [2026-11-27] caza-auto | EN B perforar acuarela-workbook-pdf (tarde) → 0 candidatos a bandeja
 ## [2026-11-27] caza-auto | ES B planner-vaciar-cabeza-es (tarde) → 1 candidato a bandeja
+
+## [2026-11-28] caza-auto | EN C agenda plantillas-negocio-word-excel → 1 candidato a bandeja

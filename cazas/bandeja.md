@@ -25,6 +25,19 @@ histórico.
 ## Pendientes de revisión
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 Paquetes de plantillas Excel/Sheets de gestión de proyectos y RR. HH. («Ultimate Workflow Suite 12in1», «Project Mastery 5-Tier», «HR Essentials 4in1») — MAX SHEETS US + GB · `plantillas-negocio-word-excel` (re-medido en modo C; señal del 11-26) · 2026-11-28 · sesión EN
+- **Qué es:** bundles de hojas de cálculo listas para usar (Project Command Center, Meeting Action Tracker, Resource Allocation Planner, Sprint Planning Tracker, HR Essentials 4in1, Team Management Suite 5in1), con oferta «Up to 60% off every template», «No monthly fee. No new app.» y garantía de devolución. Formato digital (Excel/Sheets) inferido por el copy; precio no visible.
+- **Por qué es ganador:** cohorte 7+ US 12/13 activos y GB ≈18/25 activos de un solo page_id (piso de la API no alcanzado) · ≥6 fechas de creación distintas (más viejos ~46 d en US, tandas de 11-02, 11-09, 11-14, 11-23 y 11-27) · operador vivo (2 ads creados hace <1 d) · página de marca (nombre sin persona), sin cara · ángulos de beneficio escalados («Get 52 hours back this year», «Your Monday update, already built», «Save 1 hour a week, or it's free»).
+- **Qué hacer:** modelar un bundle «suite de plantillas de gestión de proyectos / equipo» de pago único sin suscripción · destino US y GB (ya corre en ambos) y luego DE/FR/IT/PT · ángulo «No monthly fee. No new app.» + garantía.
+- **Ads Library:** US https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=180395578482259 · GB https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=180395578482259
+- **Landing:** no visible desde la nube (el API no trae la URL): verificar en la PC (precio, Excel vs Google Sheets, checkout) antes de decidir.
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~46 d), snapshot no verificado.
+
+**Señales del día EN (2026-11-28, modo C agenda):**
+- The Dailee (237698842762300): US 168 activos, cohorte 7+ ≥47 de 50 (piso) con 10 fechas de creación («#1 Selling Daily Planner», «iPad Weekly Planner», «Spreadsheet Planner» para mamás/universidad/corporativo, «Loved by 290k+ Planner People»); marca con tienda («Shop Black Friday») que probablemente mezcla planner físico con digital: no pasa el gate sin ver la landing (thedailee.com no resolvió desde la nube). Verificar en la PC si el «Spreadsheet/iPad Planner» es descarga digital.
+- Excel Sheets Pro (948639911672809): 18 activos (US 7 del 11-26/27, GB 11 del 11-26, todos con título «⭐ 4.96/5»), cohorte 0; re-medir ~2026-12-04.
+- Fenix Library US (1455853117614278): 252 activos, el ad más viejo de ~1.3 d, cohorte 0 (red «drawn»); re-medir ~2026-12-02.
 EN 2026-11-27 tarde: nada que pase la vara; se barrió watercolor workbook, drawing course pdf, calligraphy workbook, botanical drawing, coloured pencil lessons, lettering practice sheets, sketchbook prompts y 14 page_ids (Clara Hayes re-medida US 29/32 · GB 24/28, ya con tarjeta del 11-26).
 
 **Señales del día EN (tarde, 2026-11-27, `acuarela-workbook-pdf`):**
