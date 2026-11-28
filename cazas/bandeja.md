@@ -127,6 +127,34 @@ EN 2026-11-24 (tarde): nada que pase la vara; se barrió printable planner, inst
 - Planuppro (101376582798836) 10 ads y Charles Whitmore (1367971366405651) 7 ads: bundles digitales de <2 días, sin cohorte.
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
+
+### 🎯 «Kit Comptable Pratique 2027 · 7 cahiers + 6 bonus» (23,90 €) — Amélie Boissieu FR · `kit-contable-pdf-fr` · 2026-11-28 · sesión EU
+- **Qué es:** kit de contabilidad práctica para autónomos/pequeñas empresas: 7 cuadernos + 6 bonus, 23,90 €, con gancho «2027» (estacional por cambio de año). Formato exacto (PDF/hojas imprimibles) sin confirmar. Un solo título repetido en todos los ads.
+- **Por qué es ganador:** cohorte 7+ 44 / 50 activos de un solo page_id en FR (piso: 75 estimados) · ~15 fechas de creación distintas del 27-oct al 27-nov = operador vivo, ads de hasta 32 días · título de producto, sin cara en los ads (página con nombre de persona). Solo FR medido.
+- **Qué hacer:** modelar «kit contable del año» (plantillas + cuadernos de registro + bonos) · destino FR (probar DE/IT/PT: no medido) · ángulo «démarrez 2027 avec une comptabilité propre» · precio ancla ~24 €.
+- **Ads Library por país:** FR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1363004406903385
+- **Landing:** no verificada desde la nube (sin URL en la API): verificar en la PC (PDF vs físico, checkout, cara). Snapshots: https://www.facebook.com/ads/library/?id=2374958103315725 · https://www.facebook.com/ads/library/?id=1634110078174485
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~32 d), snapshot no verificado.
+
+### 🎯 «100 chefs-d'œuvre à colorier» (PDF para imprimir, 60 artistas) — Claire Dubois FR + DE · `coloriage-artistes-pdf` · 2026-11-28 · sesión EU
+- **Qué es:** libro para colorear de obras maestras («Van Gogh au bout des crayons», «Monet en classe, en trois étapes»), «à imprimer à volonté»; en DE «Ausmalbuch 100 Meisterwerke». Precio no visible. Es el mismo operador de Clara Hayes (acuarela, ya tarjeta EN 11-26)? No confirmado.
+- **Por qué es ganador:** FR cohorte 7+ 40 / 50 activos (piso; 81 estimados) · 9 fechas de creación del 31-oct al 27-nov · DE 13 / 25 medido el 11-25 (huella) = corre en los dos idiomas · títulos de producto, sin cara.
+- **Qué hacer:** modelar «libro para colorear de arte por artista, imprimible» · destino FR y DE (probar IT/PT: no medido) · ángulo «un maître par semaine» / pantalla-cero en casa. Ojo: público adulto vs niños no confirmado.
+- **Ads Library por país:** FR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1401542033032493 · DE https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=DE&view_all_page_id=1401542033032493
+- **Landing:** no verificada desde la nube: verificar en la PC (PDF, precio, cara). Snapshots: https://www.facebook.com/ads/library/?id=2336784227251985 · https://www.facebook.com/ads/library/?id=1141010094946656
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~28 d), snapshot no verificado.
+
+**Señales del día EU (2026-11-28, A huella):**
+- Sector Digital DE (1122535934265327): 42/50 piso, kits «7 Module und 5 Boni» para psicólogos deportivos/adicciones, ~16 fechas desde el 11-oct; mismo molde que ProfessionalHub (1326720760533367, est. 128, ≥2 con 7+ d, sin medir) y Claude Meister (14 ads, todos <5 d); re-medir 2026-12-03.
+- Thomas Bernard FR (1257844197417780): 34/50 piso, «310 cartes mentales d'informatique» / «160+ neuroanatomie» 9,99 €; molde de mapas mentales con otro tema; tarjeta cuando haya cupo.
+- SkillNova FR (1447903168404900): 11/16, «+300 fiches» enfermería IFSI.
+- Open Invite Co IT (1031068786753205): 15/25, plantillas de invitación editables (producto no visto); Formula DG IT (1365224956675289): 17/39, catálogo disperso ES+IT.
+- Griffbereit DE (1395192210344917): 11/16, «Die ganze Bibliothek. Ein Download.» (producto no legible); Guias em Ordem PT (1429517980249199): 10/24, packs «6 livros» de entrenamiento deportivo + app.
+- Praxisregal DE (1329124213628604): 17/22 «zum Selberbauen»: probable objeto físico, no modelable salvo que sea PDF de planos.
+- Re-medir ~2026-12-03 (ads <7 d hoy): Claude Meister DE, ZwergeZauber DE (packs 5 PDFs infantiles por 20 €), Inkora Digital IT («spiegata con i disegni», 22 ads), Linework Books PT (25), Julien Moreau FR y Camille Laurent FR (50 piso cada una, creados 27-28 nov).
+- Ya con tarjeta y vigentes: Stitchy DE 25/47, Crochet school DE 10/40, Emito DE 50/50 piso, Rachel Bennett DE 25/50 piso, Lingua Chiara IT ≥20/50 piso, Studio Facile PT 21/50 piso (+6/22 en página gemela).
 EU 2026-11-27 tarde (B haccp-restauracion): nada que pase la vara; se barrió HACCP guia/manual HACCP restaurante (PT), HACCP modèles/plan de maîtrise sanitaire/PMS HACCP Word (FR), HACCP Vorlagen/Hygienekonzept/Schulung (DE), HACCP manuale/registro HACCP (IT).
 
 **Señales del día EU (tarde, 2026-11-27):**

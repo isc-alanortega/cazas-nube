@@ -40,3 +40,5 @@
 ## [2026-11-27] caza-auto | ES B planner-vaciar-cabeza-es (tarde) → 1 candidato a bandeja
 
 ## [2026-11-28] caza-auto | EN C agenda plantillas-negocio-word-excel → 1 candidato a bandeja
+
+## [2026-11-28] caza-auto | EU A huella → 2 candidatos a bandeja
