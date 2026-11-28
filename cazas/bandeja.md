@@ -25,6 +25,13 @@ histórico.
 ## Pendientes de revisión
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
+EN 2026-11-27 tarde: nada que pase la vara; se barrió watercolor workbook, drawing course pdf, calligraphy workbook, botanical drawing, coloured pencil lessons, lettering practice sheets, sketchbook prompts y 14 page_ids (Clara Hayes re-medida US 29/32 · GB 24/28, ya con tarjeta del 11-26).
+
+**Señales del día EN (tarde, 2026-11-27, `acuarela-workbook-pdf`):**
+- Fenix Library US (page_id 1455853117614278): ≥40 ads <4 d, guías «drawn · 57-59 pages» (Route 66, Amateur Extra, economía, wound care, music production); misma red que Learned Visually US 0/20, Doitvisual, Pencraft Manuals, Linework Books, Rowan House Press; cohorte 0; re-medir ~2026-12-02 (nodo `guias-dibujadas-examenes-en`).
+- Calligraphy Mastery by Rose US: 16 ads <1 d «Holiday Offer», cohorte 0.
+- Draw The Life You Want GB: membresía $5/mes, 30 ads <1 d (no es infoproducto de pago único).
+
 ### 🎯 Guías visuales «Professional Edition · 6 Visual Volumes + 5 Bonuses» por oficio — Central Pack US/GB · `fichas-psicopatologia-pdf` (hallado perforando; hijo nuevo `guias-visuales-oficios-multi-sku`) · 2026-11-27 · sesión EN
 - **Qué es:** fábrica de guías visuales por oficio/tema técnico (gelato, aceite de oliva, lubricación industrial, iluminación de escenario, afinación de piano, vela, válvulas, VFD, seguridad de máquinas, subsea…): «6 Volumes + 5 Bonuses», formato digital inferido; precio no visible.
 - **Por qué es ganador:** cohorte 7+ US 11/50 activos de un solo page_id (piso: 95 en total; Gelato 4, Olive Oil 3, Lubrication 3, Stage Lighting 1; más viejo ≥8.9 d) · 4 SKUs distintos escalando a la vez · operador vivo (SKUs nuevos hace ~1.5 d) · sin cara ni persona · **ojo:** ningún SKU suelto llega a 10, la cohorte es del molde.
