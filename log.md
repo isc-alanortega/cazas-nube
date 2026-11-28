@@ -34,3 +34,4 @@
 ## [2026-11-27] caza-auto | BR A huella → 2 candidatos a bandeja
 ## [2026-11-27] caza-auto | ES B cuaderno-carrera-app-es → 2 candidatos a bandeja
 ## [2026-11-27] caza-auto | EU B haccp-restauracion (tarde) → 0 candidatos a bandeja
+## [2026-11-27] caza-auto | BR B planillas-listas-br (tarde) → 2 candidatos a bandeja

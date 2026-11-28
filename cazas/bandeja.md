@@ -231,6 +231,30 @@ EU 2026-11-27 tarde (B haccp-restauracion): nada que pase la vara; se barrió HA
 - Crearis Digital (1111358908733137): 173 ads IT / 46 FR lanzados en <3 días, serie «X Illustré»; re-medir en 7 días.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
+### 🎯 Calculadoras y planillas fiscales de la Reforma Tributaria — VGL Treinamento Digital BR · `planillas-listas-br` · 2026-11-27 (tarde) · sesión BR
+- **Qué es:** calculadoras/planillas por tema fiscal: «Calculadora automática Split Payment», «Planilha IBS e CBS», «Calculadora de Honorários», «Aluguel na Reforma Tributária», «Descubra o CST e o cClassTrib por NCM», «Calculadora IBS e CBS no Agro»; formato (Excel vs web) y precio no legibles por API.
+- **Por qué es ganador:** BR cohorte 7+ de ≥25 / 132 activos (un solo page_id; 50 visibles por consulta, la cohorte es piso) · el más viejo ~36 d, ≥8 fechas de creación, ad de hace ~2 d → rota un SKU por tema de moda cada ~4-10 d · no es marca personal.
+- **Qué hacer:** modelar el molde «planilla/calculadora que resuelve el cambio fiscal del año» → FR (facturation électronique), IT (fatturazione elettronica), DE (E-Rechnung/USt) · verificar en la PC si es Excel (sirve) o app web (pasarlo a Excel/PDF).
+- **Ads Library:** BR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=101918672390936
+- **Landing:** no verificada desde la nube (sin URL en el copy) · snapshots: https://www.facebook.com/ads/library/?id=1722319209509667 · https://www.facebook.com/ads/library/?id=2330353764430631
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~36 d), snapshot no verificado.
+
+### 🎯 «Acesso Imediato» sobre la Reforma Tributária — Descomplicando a Reforma BR · `planillas-listas-br` · 2026-11-27 (tarde) · sesión BR
+- **Qué es:** producto de acceso inmediato sobre la Reforma Tributária; el título del ad es solo «Acesso Imediato👉» → qué vende (guía, planilla, curso) y a qué precio no es legible por API.
+- **Por qué es ganador:** BR cohorte 7+ de 23 / 23 activos (un solo page_id) · el más viejo ~44 d, 5 tandas de creación (hace ~7,8, ~8,5, ~20, ~28, ~44 d) · sin ad de la última semana (más nuevo ~7,8 d): operador que reinvierte por tandas · no se ve marca personal.
+- **Qué hacer:** abrir un snapshot en la PC y confirmar qué es (si es curso en vivo/mentoría, no sirve); si es guía/planilla PDF, mismo molde que VGL → FR/IT/DE.
+- **Ads Library:** BR https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1328467207006586
+- **Landing:** no verificada desde la nube · snapshots: https://www.facebook.com/ads/library/?id=1764018701552995 (el más viejo) · https://www.facebook.com/ads/library/?id=2310398926383671
+- Score 2/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~44 d), snapshot no verificado.
+
+**Señales del día BR (27-nov tarde, B planillas-listas-br):**
+- Raphael – Kit do Empreendedor (1407988142408215): «10 documentos + planilha R$ 9,90», ≥50 ads de ~1 d (ola); cohorte 0 → re-medir ~2026-12-03.
+- Ola «escala 5x2» (LX Contábil, Aprovata, Guia 5x2 Sem Prejuízo, Escala 5x2 app): todo <1 d; sin cohorte (Escala Nova ya anotada el 11-25).
+- Tudo em um Lugar «Combo 4 Planilhas + Guia 2027 R$ 15», Dia 20 «Kit MEI R$ 9,90», MEI Salva, FinanControl «Planilha-MEI»: 1-3 ads <3 d.
+- MR Orçamento (1245550001975326): Planilha SINAPI+SEINFRA+SICRO, 2 ads (uno ~7 d); sin cohorte.
+
 ### 🎯 +60 proyectos de juguetes y moldes de madera (PDF) — Joaquim Marceneiro BR · `planos-carpinteria-br` · 2026-11-27 · sesión BR
 - **Qué es:** planos/proyectos descargables de carpintería: «+60 projetos de brinquedões» y «+60 moldes de gabaritos» (por título del ad; formato PDF/archivo, precio no legible por API). El mecanismo es el plano (conocimiento), no el objeto.
 - **Por qué es ganador:** BR cohorte 7+ de 19 / 29 activos (un solo page_id; el ad más viejo creado hace ~38 d, 5 tandas de creación distintas, ≥1 ad de la última semana → operador vivo que rota dos SKUs) · la misma oferta corre en la página clon Jonas Silveira (2/4, no suma) · persona = nombre de pila + oficio, sin cara verificable (juzgar en el snapshot).
