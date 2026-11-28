@@ -43,3 +43,5 @@
 
 ## [2026-11-28] caza-auto | EU A huella → 2 candidatos a bandeja
 ## [2026-11-28] caza-auto | BR B mapas-visuales-concursos-br → 2 candidatos a bandeja
+
+## [2026-11-28] caza-auto | ES C agenda mapas-ingenieria-es → 1 candidato a bandeja

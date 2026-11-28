@@ -386,6 +386,23 @@ BR 2026-11-25: nada que pase la vara; se barrió guia prático pdf, planilha pro
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Mapas visuales / mapas mentales por carrera» + «Megapack Automatización Industrial» — Mapas Visuales PRO PE · `mapas-ingenieria-es` (re-medición modo C; hijo nuevo `mapas-visuales-pro-pe`) · 2026-11-28 (mañana) · sesión ES
+- **Qué es:** catálogo de mapas visuales/mentales de estudio por carrera (Ingeniería Civil, Automatización Industrial «Megapack», inglés «15 min al día con estos apuntes»), página de marca en Perú (moneda PEN); formato PDF inferido por los títulos («apuntes», «mapas»), precio no visible por API.
+- **Por qué es ganador:** cohorte 7+ de **17/45 activos** en un solo page_id (45 = total completo, no es piso) · ≥15 tandas de creación (~71, ~68, ~65, ~60, ~54, ~51, ~45 d… y lotes nuevos de ~5, ~3, ~2, ~1 d y hoy): operador vivo que lleva 10 semanas reinvirtiendo · 4 ángulos sobre la misma oferta («Deja de estudiar con los libros, usa mapas visuales», «Megapack Automatización Industrial», «Mapas Mentales de Ingeniería Civil», «Aprende inglés con 15 min al día») · sin cara visible. Hay un hueco de ~4 semanas sin ads nuevos (de ~45 a ~5 d): los viejos pueden ser ads que nadie apagó.
+- **Qué hacer:** modelar «mapas visuales por carrera» (un PDF por materia + megapack) con precio ~US$10-17 · fuente ES (PE) → destino IT, PT, FR, DE (probar US en español); mismo molde de EU (`mapas-mentales-idiomas`) y de Lena Braun / Bioma Lívido / Los Resúmenes (mapas mentales de ingeniería, embriología, informática, todos <3 d) · **riesgo:** «Megapack» puede ser un pack de cursos/PDF revendidos (PLR), y las longevidades salen solo de la API.
+- **Ads Library por país:** PE https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=PE&view_all_page_id=1291088710759821
+- **Landing:** no visible desde la nube (sin URL en la API): verificar en la PC precio en soles, checkout y si el entregable es PDF. Snapshots: https://www.facebook.com/ads/library/?id=1431535231641767 · https://www.facebook.com/ads/library/?id=1384174707118248
+- Score 3/4 (escalera n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube. Longevidad por API (más viejo ~71 d), snapshot no verificado.
+
+**Señales del día ES (mañana, 2026-11-28):**
+- Doctor PDF MX (114914206902993): cohorte 6/19 (fichas visuales de enfermería/guardias, «regalo de navidad»), sigue por debajo de 10.
+- Estudia Sencillo (113453315134646): 169 activos, los 50 visibles <6 d (guía de urgencias, farmacología «sin memorizar»); cohorte 0 visible, tope de API: re-medir ~2026-12-02.
+- Valentina Ríos (1245937505280284): cohorte 3/10 («+3000 ya lo descargaron»); no llega.
+- Lena Braun (1369177336283007): ≥50 ads de ≤3 d («250 Mapas Visuales de Ingeniería Mecánica»); sin cohorte aún.
+- Bioma Lívido (983071081549465) mapas mentales embriología/fichas TCC y Los Resúmenes (1310021462185665) mapas de informática/KPIs: <4 d, mismo molde; re-medir ~2026-12-02.
+- Medical System Global (1299254193268099): 7 visibles de ≥3 d, sin cohorte en el tramo visible (antes 12/39 AR); Galaxia Digital PDF MX («Pack Medicina $100 MXN») y Educación médica al día CO (combo de apps/IA, no es PDF): <4 d.
+
 ### 🎯 Agenda/planner «hecha para tu cerebro» (TDAH, sin fechas, «en tu teléfono o impresa») — Mente Inquieta ES · `planner-vaciar-cabeza-es` (perforado; hijo nuevo `agenda-tdah-sin-fechas-es`) · 2026-11-27 (tarde) · sesión ES
 - **Qué es:** agenda/planner para cabezas con TDAH, sin fechas («la retomas hoy, sin culpa», «llénala a medias, sigue funcionando»), usable «en tu teléfono o impresa»; «+170 personas les encanta el planner»; entregable PDF/digital inferido, precio no visible por API.
 - **Por qué es ganador:** cohorte 7+ de 29/42 activos en ES (33/46 con LATAM; total < 50, no es piso) de un solo page_id · ≥6 tandas de creación (~12, ~11, ~10, ~9, ~6, ~5 y ~3 d), la más vieja ~12 d, y lote nuevo hace 3 d: operador vivo que reinvierte · ~25 hooks sobre un mismo producto · página de marca, sin cara visible.
